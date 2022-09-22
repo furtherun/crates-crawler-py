@@ -1,0 +1,1001 @@
+Crate Id,Crate Name,Crate Version,Homepage,Documentation,Repository
+1,rand,v0.8.4,https://rust-random.github.io/book,https://docs.rs/rand,https://github.com/rust-random/rand
+2,syn,v1.0.85, ,https://docs.rs/syn,https://github.com/dtolnay/syn
+3,rand_core,v0.6.3,https://rust-random.github.io/book,https://docs.rs/rand_core,https://github.com/rust-random/rand
+4,libc,v0.2.112,https://github.com/rust-lang/libc,https://docs.rs/libc/,https://github.com/rust-lang/libc
+5,quote,v1.0.14, ,https://docs.rs/quote/,https://github.com/dtolnay/quote
+6,cfg-if,v1.0.0,https://github.com/alexcrichton/cfg-if,https://docs.rs/cfg-if,https://github.com/alexcrichton/cfg-if
+7,proc-macro2,v1.0.36, ,https://docs.rs/proc-macro2,https://github.com/dtolnay/proc-macro2
+8,unicode-xid,v0.2.2,https://github.com/unicode-rs/unicode-xid,https://unicode-rs.github.io/unicode-xid,https://github.com/unicode-rs/unicode-xid
+9,serde,v1.0.133,https://serde.rs/,https://docs.serde.rs/serde/,https://github.com/serde-rs/serde
+10,bitflags,v1.3.2,https://github.com/bitflags/bitflags,https://docs.rs/bitflags,https://github.com/bitflags/bitflags
+11,log,v0.4.14, ,https://docs.rs/log,https://github.com/rust-lang/log
+12,lazy_static,v1.4.0, ,https://docs.rs/lazy_static,https://github.com/rust-lang-nursery/lazy-static.rs
+13,autocfg,v1.0.1, , ,https://github.com/cuviper/autocfg
+14,rand_chacha,v0.3.1,https://rust-random.github.io/book,https://docs.rs/rand_chacha,https://github.com/rust-random/rand
+15,base64,v0.13.0, ,https://docs.rs/base64,https://github.com/marshallpierce/rust-base64
+16,memchr,v2.4.1,https://github.com/BurntSushi/memchr,https://docs.rs/memchr/,https://github.com/BurntSushi/memchr
+17,num-traits,v0.2.14,https://github.com/rust-num/num-traits,https://docs.rs/num-traits,https://github.com/rust-num/num-traits
+18,serde_derive,v1.0.133,https://serde.rs/,https://serde.rs/derive.html,https://github.com/serde-rs/serde
+19,regex,v1.5.4,https://github.com/rust-lang/regex,https://docs.rs/regex,https://github.com/rust-lang/regex
+20,regex-syntax,v0.6.25,https://github.com/rust-lang/regex,https://docs.rs/regex-syntax,https://github.com/rust-lang/regex
+21,serde_json,v1.0.74, ,https://docs.serde.rs/serde_json/,https://github.com/serde-rs/json
+22,smallvec,v1.7.0, ,https://docs.rs/smallvec/,https://github.com/servo/rust-smallvec
+23,getrandom,v0.2.3, ,https://docs.rs/getrandom,https://github.com/rust-random/getrandom
+24,cc,v1.0.72,https://github.com/alexcrichton/cc-rs,https://docs.rs/cc,https://github.com/alexcrichton/cc-rs
+25,time,v0.3.5,https://time-rs.github.io/, ,https://github.com/time-rs/time
+26,itoa,v1.0.1, ,https://docs.rs/itoa,https://github.com/dtolnay/itoa
+27,aho-corasick,v0.7.18,https://github.com/BurntSushi/aho-corasick, ,https://github.com/BurntSushi/aho-corasick
+28,byteorder,v1.4.3,https://github.com/BurntSushi/byteorder,https://docs.rs/byteorder,https://github.com/BurntSushi/byteorder
+29,version_check,v0.9.4, ,https://docs.rs/version_check/,https://github.com/SergioBenitez/version_check
+30,crossbeam-utils,v0.8.6,https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-utils, ,https://github.com/crossbeam-rs/crossbeam
+31,bytes,v1.1.0, , ,https://github.com/tokio-rs/bytes
+32,parking_lot_core,v0.8.5, , ,https://github.com/Amanieu/parking_lot
+33,parking_lot,v0.11.2, , ,https://github.com/Amanieu/parking_lot
+34,strsim,v0.10.0,https://github.com/dguo/strsim-rs,https://docs.rs/strsim/,https://github.com/dguo/strsim-rs
+35,semver,v1.0.4, ,https://docs.rs/semver,https://github.com/dtolnay/semver
+36,scopeguard,v1.1.0, ,https://docs.rs/scopeguard/,https://github.com/bluss/scopeguard
+37,ryu,v1.0.9, ,https://docs.rs/ryu,https://github.com/dtolnay/ryu
+38,num_cpus,v1.13.1, ,https://docs.rs/num_cpus,https://github.com/seanmonstar/num_cpus
+39,url,v2.2.2, ,https://docs.rs/url,https://github.com/servo/rust-url
+40,atty,v0.2.14,https://github.com/softprops/atty,http://softprops.github.io/atty,https://github.com/softprops/atty
+41,lock_api,v0.4.5, , ,https://github.com/Amanieu/parking_lot
+42,percent-encoding,v2.1.0, , ,https://github.com/servo/rust-url/
+43,ansi_term,v0.12.1,https://github.com/ogham/rust-ansi-term,https://docs.rs/ansi_term,https://github.com/ogham/rust-ansi-term
+44,num-integer,v0.1.44,https://github.com/rust-num/num-integer,https://docs.rs/num-integer,https://github.com/rust-num/num-integer
+45,idna,v0.2.3, , ,https://github.com/servo/rust-url/
+46,generic-array,v0.14.5, ,http://fizyk20.github.io/generic-array/generic_array/,https://github.com/fizyk20/generic-array.git
+47,unicode-width,v0.1.9,https://github.com/unicode-rs/unicode-width,https://unicode-rs.github.io/unicode-width,https://github.com/unicode-rs/unicode-width
+48,winapi,v0.3.9, ,https://docs.rs/winapi/,https://github.com/retep998/winapi-rs
+49,mio,v0.8.0,https://github.com/tokio-rs/mio, ,https://github.com/tokio-rs/mio
+50,tokio,v1.15.0,https://tokio.rs/, ,https://github.com/tokio-rs/tokio
+51,futures,v0.3.19,https://rust-lang.github.io/futures-rs, ,https://github.com/rust-lang/futures-rs
+52,clap,v3.0.5, ,https://docs.rs/clap/,https://github.com/clap-rs/clap
+53,itertools,v0.10.3, ,https://docs.rs/itertools/,https://github.com/rust-itertools/itertools
+54,thread_local,v1.1.3, ,https://docs.rs/thread_local/,https://github.com/Amanieu/thread_local-rs
+55,either,v1.6.1, ,https://docs.rs/either/1/,https://github.com/bluss/either
+56,chrono,v0.4.19,https://github.com/chronotope/chrono,https://docs.rs/chrono/,https://github.com/chronotope/chrono
+57,slab,v0.4.5,https://github.com/tokio-rs/slab,https://docs.rs/slab,https://github.com/tokio-rs/slab
+58,indexmap,v1.8.0, ,https://docs.rs/indexmap/,https://github.com/bluss/indexmap
+59,ppv-lite86,v0.2.16, , ,https://github.com/cryptocorrosion/cryptocorrosion
+60,unicode-normalization,v0.1.19,https://github.com/unicode-rs/unicode-normalization,https://docs.rs/unicode-normalization/,https://github.com/unicode-rs/unicode-normalization
+61,env_logger,v0.9.0, ,https://docs.rs/env_logger,https://github.com/env-logger-rs/env_logger/
+62,digest,v0.10.1, ,https://docs.rs/digest,https://github.com/RustCrypto/traits
+63,textwrap,v0.14.2, ,https://docs.rs/textwrap/,https://github.com/mgeisler/textwrap
+64,fnv,v1.0.7, ,https://doc.servo.org/fnv/,https://github.com/servo/rust-fnv
+65,semver-parser,v0.10.2,https://github.com/steveklabnik/semver-parser,https://docs.rs/semver-parser,https://github.com/steveklabnik/semver-parser
+66,crossbeam-epoch,v0.9.6,https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-epoch, ,https://github.com/crossbeam-rs/crossbeam
+67,pin-project-lite,v0.2.8, , ,https://github.com/taiki-e/pin-project-lite
+68,block-buffer,v0.10.0, ,https://docs.rs/block-buffer,https://github.com/RustCrypto/utils
+69,memoffset,v0.6.5, , ,https://github.com/Gilnaa/memoffset
+70,hyper,v0.14.16,https://hyper.rs/,https://docs.rs/hyper,https://github.com/hyperium/hyper
+71,matches,v0.1.9, ,https://docs.rs/matches/,https://github.com/SimonSapin/rust-std-candidates
+72,rustc_version,v0.4.0, ,https://docs.rs/rustc_version/,https://github.com/Kimundi/rustc-version-rs
+73,once_cell,v1.9.0, ,https://docs.rs/once_cell,https://github.com/matklad/once_cell
+74,pkg-config,v0.3.24, ,https://docs.rs/pkg-config,https://github.com/rust-lang/pkg-config-rs
+75,unicode-bidi,v0.3.7, ,https://docs.rs/unicode-bidi/,https://github.com/servo/unicode-bidi
+76,hashbrown,v0.11.2, , ,https://github.com/rust-lang/hashbrown
+77,vec_map,v0.8.2,https://github.com/contain-rs/vec-map,https://contain-rs.github.io/vec-map/vec_map,https://github.com/contain-rs/vec-map
+78,backtrace,v0.3.63,https://github.com/rust-lang/backtrace-rs,https://docs.rs/backtrace,https://github.com/rust-lang/backtrace-rs
+79,proc-macro-hack,v0.5.19, , ,https://github.com/dtolnay/proc-macro-hack
+80,crossbeam-deque,v0.8.1,https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-deque,https://docs.rs/crossbeam-deque,https://github.com/crossbeam-rs/crossbeam
+81,typenum,v1.15.0, ,https://docs.rs/typenum,https://github.com/paholg/typenum
+82,toml,v0.5.8,https://github.com/alexcrichton/toml-rs,https://docs.rs/toml,https://github.com/alexcrichton/toml-rs
+83,arrayvec,v0.7.2, ,https://docs.rs/arrayvec/,https://github.com/bluss/arrayvec
+84,opaque-debug,v0.3.0, ,https://docs.rs/opaque-debug,https://github.com/RustCrypto/utils
+85,miniz_oxide,v0.5.1,https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide,https://docs.rs/miniz_oxide,https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
+86,rand_hc,v0.3.1,https://rust-random.github.io/book,https://docs.rs/rand_hc,https://github.com/rust-random/rand
+87,rustc-demangle,v0.1.21,https://github.com/alexcrichton/rustc-demangle,https://docs.rs/rustc-demangle,https://github.com/alexcrichton/rustc-demangle
+88,unicode-segmentation,v1.8.0,https://github.com/unicode-rs/unicode-segmentation,https://unicode-rs.github.io/unicode-segmentation,https://github.com/unicode-rs/unicode-segmentation
+89,http,v0.2.6, ,https://docs.rs/http,https://github.com/hyperium/http
+90,termcolor,v1.1.2,https://github.com/BurntSushi/termcolor,https://docs.rs/termcolor,https://github.com/BurntSushi/termcolor
+91,crossbeam-channel,v0.5.2,https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-channel, ,https://github.com/crossbeam-rs/crossbeam
+92,httparse,v1.5.1, ,https://docs.rs/httparse,https://github.com/seanmonstar/httparse
+93,socket2,v0.4.2,https://github.com/rust-lang/socket2,https://docs.rs/socket2,https://github.com/rust-lang/socket2
+94,humantime,v2.1.0,https://github.com/tailhook/humantime,https://docs.rs/humantime,https://github.com/tailhook/humantime
+95,pin-project,v1.0.10, , ,https://github.com/taiki-e/pin-project
+96,pin-project-internal,v1.0.10, , ,https://github.com/taiki-e/pin-project
+97,h2,v0.3.10, ,https://docs.rs/h2,https://github.com/hyperium/h2
+98,futures-core,v0.3.19,https://rust-lang.github.io/futures-rs, ,https://github.com/rust-lang/futures-rs
+99,quick-error,v2.0.1,http://github.com/tailhook/quick-error,http://docs.rs/quick-error,http://github.com/tailhook/quick-error
+100,heck,v0.4.0,https://github.com/withoutboats/heck,https://docs.rs/heck,https://github.com/withoutboats/heck
+101,futures-util,v0.3.19,https://rust-lang.github.io/futures-rs, ,https://github.com/rust-lang/futures-rs
+102,futures-task,v0.3.19,https://rust-lang.github.io/futures-rs, ,https://github.com/rust-lang/futures-rs
+103,futures-channel,v0.3.19,https://rust-lang.github.io/futures-rs, ,https://github.com/rust-lang/futures-rs
+104,futures-sink,v0.3.19,https://rust-lang.github.io/futures-rs, ,https://github.com/rust-lang/futures-rs
+105,mime,v0.3.16, ,https://docs.rs/mime,https://github.com/hyperium/mime
+106,thiserror,v1.0.30, ,https://docs.rs/thiserror,https://github.com/dtolnay/thiserror
+107,thiserror-impl,v1.0.30, , ,https://github.com/dtolnay/thiserror
+108,futures-io,v0.3.19,https://rust-lang.github.io/futures-rs, ,https://github.com/rust-lang/futures-rs
+109,remove_dir_all,v0.7.0, , ,https://github.com/XAMPPRocky/remove_dir_all.git
+110,nom,v7.1.0, ,https://docs.rs/nom,https://github.com/Geal/nom
+111,openssl-sys,v0.9.72, , ,https://github.com/sfackler/rust-openssl
+112,anyhow,v1.0.52, ,https://docs.rs/anyhow,https://github.com/dtolnay/anyhow
+113,nix,v0.23.1, , ,https://github.com/nix-rust/nix
+114,http-body,v0.4.4, ,https://docs.rs/http-body,https://github.com/hyperium/http-body
+115,pin-utils,v0.1.0, ,https://docs.rs/pin-utils,https://github.com/rust-lang-nursery/pin-utils
+116,crc32fast,v1.3.0, , ,https://github.com/srijs/rust-crc32fast
+117,tempfile,v3.3.0,http://stebalien.com/projects/tempfile-rs,https://docs.rs/tempfile,https://github.com/Stebalien/tempfile
+118,unicase,v2.6.0, ,https://docs.rs/unicase,https://github.com/seanmonstar/unicase
+119,uuid,v0.8.2,https://github.com/uuid-rs/uuid,https://docs.rs/uuid,https://github.com/uuid-rs/uuid
+120,walkdir,v2.3.2,https://github.com/BurntSushi/walkdir,https://docs.rs/walkdir/,https://github.com/BurntSushi/walkdir
+121,want,v0.3.0, ,https://docs.rs/want,https://github.com/seanmonstar/want
+122,flate2,v1.0.22,https://github.com/rust-lang/flate2-rs,https://docs.rs/flate2,https://github.com/rust-lang/flate2-rs
+123,futures-macro,v0.3.19,https://rust-lang.github.io/futures-rs, ,https://github.com/rust-lang/futures-rs
+124,instant,v0.1.12, , ,https://github.com/sebcrozet/instant
+125,hex,v0.4.3, ,https://docs.rs/hex/,https://github.com/KokaKiwi/rust-hex
+126,serde_urlencoded,v0.7.0, ,https://docs.rs/serde_urlencoded/0.7.0/serde_urlencoded/,https://github.com/nox/serde_urlencoded
+127,synstructure,v0.12.6, ,https://docs.rs/synstructure,https://github.com/mystor/synstructure
+128,same-file,v1.0.6,https://github.com/BurntSushi/same-file,https://docs.rs/same-file,https://github.com/BurntSushi/same-file
+129,tinyvec,v1.5.1, , ,https://github.com/Lokathor/tinyvec
+130,tokio-util,v0.6.9,https://tokio.rs/,https://docs.rs/tokio-util/0.6.9/tokio_util,https://github.com/tokio-rs/tokio
+131,net2,v0.2.37,https://github.com/deprecrated/net2-rs,https://docs.rs/net2/~0.2,https://github.com/deprecrated/net2-rs
+132,openssl,v0.10.38, , ,https://github.com/sfackler/rust-openssl
+133,sha2,v0.10.1, ,https://docs.rs/sha2,https://github.com/RustCrypto/hashes
+134,tracing,v0.1.29,https://tokio.rs/, ,https://github.com/tokio-rs/tracing
+135,futures-executor,v0.3.19,https://rust-lang.github.io/futures-rs, ,https://github.com/rust-lang/futures-rs
+136,glob,v0.3.0,https://github.com/rust-lang/glob,https://docs.rs/glob/0.3.0,https://github.com/rust-lang/glob
+137,dtoa,v1.0.2, ,https://docs.rs/dtoa,https://github.com/dtolnay/dtoa
+138,try-lock,v0.2.3,https://github.com/seanmonstar/try-lock,https://docs.rs/try-lock,https://github.com/seanmonstar/try-lock
+139,linked-hash-map,v0.5.4,https://github.com/contain-rs/linked-hash-map,https://docs.rs/linked-hash-map,https://github.com/contain-rs/linked-hash-map
+140,rand_pcg,v0.3.1,https://rust-random.github.io/book,https://docs.rs/rand_pcg,https://github.com/rust-random/rand
+141,tracing-core,v0.1.21,https://tokio.rs/, ,https://github.com/tokio-rs/tracing
+142,iovec,v0.1.4,https://github.com/carllerche/iovec,https://docs.rs/iovec,https://github.com/carllerche/iovec
+143,proc-macro-nested,v0.1.7, , ,https://github.com/dtolnay/proc-macro-hack
+144,rayon,v1.5.1, ,https://docs.rs/rayon/,https://github.com/rayon-rs/rayon
+145,redox_syscall,v0.2.10, ,https://docs.rs/redox_syscall,https://gitlab.redox-os.org/redox-os/syscall
+146,num-bigint,v0.4.3,https://github.com/rust-num/num-bigint,https://docs.rs/num-bigint,https://github.com/rust-num/num-bigint
+147,rayon-core,v1.9.1, ,https://docs.rs/rayon/,https://github.com/rayon-rs/rayon
+148,foreign-types,v0.5.0, , ,https://github.com/sfackler/foreign-types
+149,encoding_rs,v0.8.30,https://docs.rs/encoding_rs/,https://docs.rs/encoding_rs/,https://github.com/hsivonen/encoding_rs
+150,adler,v1.0.2, ,https://docs.rs/adler/,https://github.com/jonas-schievink/adler.git
+151,sha-1,v0.10.0, ,https://docs.rs/sha-1,https://github.com/RustCrypto/hashes
+152,openssl-probe,v0.1.4,https://github.com/alexcrichton/openssl-probe, ,https://github.com/alexcrichton/openssl-probe
+153,foreign-types-shared,v0.3.0, , ,https://github.com/sfackler/foreign-types
+154,object,v0.28.2, , ,https://github.com/gimli-rs/object
+155,reqwest,v0.11.8, ,https://docs.rs/reqwest,https://github.com/seanmonstar/reqwest
+156,crypto-mac,v0.11.1, ,https://docs.rs/crypto-mac,https://github.com/RustCrypto/traits
+157,tokio-macros,v1.7.0,https://tokio.rs/, ,https://github.com/tokio-rs/tokio
+158,addr2line,v0.17.0, ,https://docs.rs/addr2line,https://github.com/gimli-rs/addr2line
+159,tower-service,v0.3.1,https://github.com/tower-rs/tower,https://docs.rs/tower-service/0.3.1,https://github.com/tower-rs/tower
+160,wasi,v0.10.2+wasi-snapshot-preview1, ,https://docs.rs/wasi,https://github.com/bytecodealliance/wasi
+161,gimli,v0.26.1, ,https://docs.rs/gimli,https://github.com/gimli-rs/gimli
+162,crossbeam-queue,v0.3.3,https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-queue, ,https://github.com/crossbeam-rs/crossbeam
+163,dirs,v4.0.0, , ,https://github.com/soc/dirs-rs
+164,signal-hook-registry,v1.4.0, ,https://docs.rs/signal-hook-registry,https://github.com/vorner/signal-hook
+165,proc-macro-error,v1.0.4, , ,https://gitlab.com/CreepySkeleton/proc-macro-error
+166,winapi-x86_64-pc-windows-gnu,v0.4.0, , ,https://github.com/retep998/winapi-rs
+167,native-tls,v0.2.8, , ,https://github.com/sfackler/rust-native-tls
+168,miow,v0.4.0,https://github.com/yoshuawuyts/miow,https://docs.rs/miow/0.3/x86_64-pc-windows-msvc/miow/,https://github.com/yoshuawuyts/miow
+169,winapi-i686-pc-windows-gnu,v0.4.0, , ,https://github.com/retep998/winapi-rs
+170,subtle,v2.4.1,https://dalek.rs/,https://docs.rs/subtle,https://github.com/dalek-cryptography/subtle
+171,proc-macro-error-attr,v1.0.4, , ,https://gitlab.com/CreepySkeleton/proc-macro-error
+172,block-padding,v0.2.1, ,https://docs.rs/block-padding,https://github.com/RustCrypto/utils
+173,failure,v0.1.8,https://rust-lang-nursery.github.io/failure/,https://docs.rs/failure,https://github.com/rust-lang-nursery/failure
+174,byte-tools,v0.3.1, ,https://docs.rs/byte-tools,https://github.com/RustCrypto/utils
+175,spin,v0.9.2, , ,https://github.com/mvdnes/spin-rs.git
+176,rand_xorshift,v0.3.0,https://rust-random.github.io/book,https://docs.rs/rand_xorshift,https://github.com/rust-random/rngs
+177,async-trait,v0.1.52, ,https://docs.rs/async-trait,https://github.com/dtolnay/async-trait
+178,form_urlencoded,v1.0.1, , ,https://github.com/servo/rust-url
+179,hyper-tls,v0.5.0,https://hyper.rs/,https://docs.rs/hyper-tls,https://github.com/hyperium/hyper-tls
+180,bstr,v0.2.17,https://github.com/BurntSushi/bstr,https://docs.rs/bstr,https://github.com/BurntSushi/bstr
+181,num-rational,v0.4.0,https://github.com/rust-num/num-rational,https://docs.rs/num-rational,https://github.com/rust-num/num-rational
+182,ahash,v0.7.6, ,https://docs.rs/ahash,https://github.com/tkaitchuck/ahash
+183,void,v1.0.2, , ,https://github.com/reem/rust-void.git
+184,hmac,v0.12.0, ,https://docs.rs/hmac,https://github.com/RustCrypto/MACs
+185,regex-automata,v0.1.10,https://github.com/BurntSushi/regex-automata,https://docs.rs/regex-automata,https://github.com/BurntSushi/regex-automata
+186,failure_derive,v0.1.8,https://rust-lang-nursery.github.io/failure/,https://docs.rs/failure,https://github.com/rust-lang-nursery/failure
+187,which,v4.2.2, ,https://docs.rs/which/,https://github.com/harryfei/which-rs.git
+188,error-chain,v0.12.4, ,https://docs.rs/error-chain,https://github.com/rust-lang-nursery/error-chain
+189,httpdate,v1.0.2, , ,https://github.com/pyfisch/httpdate
+190,mime_guess,v2.0.3, ,https://docs.rs/mime_guess/,https://github.com/abonander/mime_guess
+191,tinyvec_macros,v0.1.0, , ,https://github.com/Soveu/tinyvec_macros
+192,stable_deref_trait,v1.2.0, ,https://docs.rs/stable_deref_trait/1.2.0/stable_deref_trait,https://github.com/storyyeller/stable_deref_trait
+193,lazycell,v1.3.0, ,http://indiv0.github.io/lazycell/lazycell/,https://github.com/indiv0/lazycell
+194,static_assertions,v1.1.0,https://github.com/nvzqz/static-assertions-rs,https://docs.rs/static_assertions/,https://github.com/nvzqz/static-assertions-rs
+195,fake-simd,v0.1.2, ,https://docs.rs/fake-simd,https://github.com/RustCrypto/utils
+196,yaml-rust,v0.4.5,http://chyh1990.github.io/yaml-rust/,https://docs.rs/yaml-rust,https://github.com/chyh1990/yaml-rust
+197,num-iter,v0.1.42,https://github.com/rust-num/num-iter,https://docs.rs/num-iter,https://github.com/rust-num/num-iter
+198,ring,v0.16.20, ,https://briansmith.org/rustdoc/ring/,https://github.com/briansmith/ring
+199,structopt-derive,v0.4.18, ,https://docs.rs/structopt-derive,https://github.com/TeXitoi/structopt
+200,structopt,v0.3.25, ,https://docs.rs/structopt,https://github.com/TeXitoi/structopt
+201,maybe-uninit,v2.0.0, , ,https://github.com/est31/maybe-uninit
+202,untrusted,v0.9.0, ,https://briansmith.org/rustdoc/untrusted/,https://github.com/briansmith/untrusted
+203,fixedbitset,v0.4.1, ,https://docs.rs/fixedbitset/,https://github.com/petgraph/fixedbitset
+204,num-complex,v0.4.0,https://github.com/rust-num/num-complex,https://docs.rs/num-complex,https://github.com/rust-num/num-complex
+205,winapi-build,v0.1.1, , ,https://github.com/retep998/winapi-rs
+206,term,v0.7.0,https://github.com/Stebalien/term,https://docs.rs/term/,https://github.com/Stebalien/term
+207,pest,v2.1.3,https://pest-parser.github.io/,https://docs.rs/pest,https://github.com/pest-parser/pest
+208,kernel32-sys,v0.2.2, ,https://retep998.github.io/doc/kernel32/,https://github.com/retep998/winapi-rs
+209,paste,v1.0.6, , ,https://github.com/dtolnay/paste
+210,filetime,v0.2.15,https://github.com/alexcrichton/filetime,https://docs.rs/filetime,https://github.com/alexcrichton/filetime
+211,rand_os,v0.2.2,https://crates.io/crates/rand_os,https://docs.rs/rand_os,https://github.com/rust-random/rand
+212,rand_isaac,v0.3.0,https://rust-random.github.io/book,https://docs.rs/rand_isaac,https://github.com/rust-random/rngs
+213,petgraph,v0.6.0, ,https://docs.rs/petgraph/,https://github.com/petgraph/petgraph
+214,siphasher,v0.3.7,https://docs.rs/siphasher,https://docs.rs/siphasher,https://github.com/jedisct1/rust-siphash
+215,winapi-util,v0.1.5,https://github.com/BurntSushi/winapi-util,https://docs.rs/winapi-util,https://github.com/BurntSushi/winapi-util
+216,utf8-ranges,v1.0.4,https://github.com/BurntSushi/utf8-ranges,https://docs.rs/utf8-ranges,https://github.com/BurntSushi/utf8-ranges
+217,libloading,v0.7.2, ,https://docs.rs/libloading/,https://github.com/nagisa/rust_libloading/
+218,num,v0.4.0,https://github.com/rust-num/num,https://docs.rs/num,https://github.com/rust-num/num
+219,tracing-attributes,v0.1.18,https://tokio.rs/, ,https://github.com/tokio-rs/tracing
+220,adler32,v1.2.0, ,https://docs.rs/adler32/,https://github.com/remram44/adler32-rs
+221,nodrop,v0.1.14, ,https://docs.rs/nodrop/,https://github.com/bluss/arrayvec
+222,rustls,v0.20.2,https://github.com/rustls/rustls, ,https://github.com/rustls/rustls
+223,hermit-abi,v0.2.0, ,https://hermitcore.github.io/rusty-hermit/hermit_abi,https://github.com/hermitcore/rusty-hermit
+224,phf_shared,v0.10.0, , ,https://github.com/sfackler/rust-phf
+225,scoped-tls,v1.0.0,https://github.com/alexcrichton/scoped-tls,https://docs.rs/scoped-tls,https://github.com/alexcrichton/scoped-tls
+226,rand_jitter,v0.3.0, ,https://docs.rs/rand_jitter,https://github.com/rust-random/rngs
+227,jobserver,v0.1.24,https://github.com/alexcrichton/jobserver-rs,https://docs.rs/jobserver,https://github.com/alexcrichton/jobserver-rs
+228,ipnet,v2.3.1, ,https://docs.rs/ipnet,https://github.com/krisprice/ipnet
+229,mio-uds,v0.6.8,https://github.com/deprecrated/mio-uds,https://docs.rs/mio-uds,https://github.com/deprecrated/mio-uds
+230,libz-sys,v1.1.3, ,https://docs.rs/libz-sys,https://github.com/rust-lang/libz-sys
+231,backtrace-sys,v0.1.37,https://github.com/alexcrichton/backtrace-rs,http://alexcrichton.com/backtrace-rs,https://github.com/alexcrichton/backtrace-rs
+232,ucd-trie,v0.1.3,https://github.com/BurntSushi/ucd-generate,https://docs.rs/ucd-trie,https://github.com/BurntSushi/ucd-generate
+233,bumpalo,v3.9.1, ,https://docs.rs/bumpalo,https://github.com/fitzgen/bumpalo
+234,wasm-bindgen,v0.2.78,https://rustwasm.github.io/,https://docs.rs/wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+235,bincode,v1.3.3, ,https://docs.rs/bincode,https://github.com/bincode-org/bincode
+236,arc-swap,v1.5.0, ,https://docs.rs/arc-swap,https://github.com/vorner/arc-swap
+237,wasm-bindgen-backend,v0.2.78,https://rustwasm.github.io/wasm-bindgen/,https://docs.rs/wasm-bindgen-backend,https://github.com/rustwasm/wasm-bindgen/tree/master/crates/backend
+238,wasm-bindgen-macro,v0.2.78,https://rustwasm.github.io/wasm-bindgen/,https://docs.rs/wasm-bindgen,https://github.com/rustwasm/wasm-bindgen/tree/master/crates/macro
+239,dirs-sys,v0.3.6, , ,https://github.com/dirs-dev/dirs-sys-rs
+240,wasm-bindgen-macro-support,v0.2.78,https://rustwasm.github.io/wasm-bindgen/,https://docs.rs/wasm-bindgen,https://github.com/rustwasm/wasm-bindgen/tree/master/crates/macro-support
+241,derive_more,v0.99.17, ,https://jeltef.github.io/derive_more/derive_more/,https://github.com/JelteF/derive_more
+242,wasm-bindgen-shared,v0.2.78,https://rustwasm.github.io/wasm-bindgen/,https://docs.rs/wasm-bindgen-shared,https://github.com/rustwasm/wasm-bindgen/tree/master/crates/shared
+243,csv,v1.1.6,https://github.com/BurntSushi/rust-csv,http://burntsushi.net/rustdoc/csv/,https://github.com/BurntSushi/rust-csv
+244,core-foundation-sys,v0.8.3,https://github.com/servo/core-foundation-rs, ,https://github.com/servo/core-foundation-rs
+245,phf,v0.10.1, , ,https://github.com/sfackler/rust-phf
+246,shlex,v1.1.0, , ,https://github.com/comex/rust-shlex
+247,webpki,v0.22.0, ,https://briansmith.org/rustdoc/webpki/,https://github.com/briansmith/webpki
+248,const_fn,v0.4.9, , ,https://github.com/taiki-e/const_fn
+249,sct,v0.7.0,https://github.com/ctz/sct.rs, ,https://github.com/ctz/sct.rs
+250,core-foundation,v0.9.2,https://github.com/servo/core-foundation-rs, ,https://github.com/servo/core-foundation-rs
+251,safemem,v0.3.3, ,https://docs.rs/safemem,https://github.com/abonander/safemem
+252,zeroize,v1.4.3, , ,https://github.com/RustCrypto/utils/tree/master/zeroize
+253,tokio-io,v0.1.13,https://tokio.rs/,https://docs.rs/tokio-io/0.1.13/tokio_io,https://github.com/tokio-rs/tokio
+254,js-sys,v0.3.55,https://rustwasm.github.io/wasm-bindgen/,https://docs.rs/js-sys,https://github.com/rustwasm/wasm-bindgen/tree/master/crates/js-sys
+255,cookie,v0.16.0, ,https://docs.rs/cookie,https://github.com/SergioBenitez/cookie-rs
+256,csv-core,v0.1.10,https://github.com/BurntSushi/rust-csv,https://docs.rs/csv-core,https://github.com/BurntSushi/rust-csv
+257,tokio-timer,v0.2.13,https://github.com/tokio-rs/tokio,https://docs.rs/tokio-timer/0.2.13/tokio_timer,https://github.com/tokio-rs/tokio
+258,maplit,v1.0.2, ,https://docs.rs/maplit/,https://github.com/bluss/maplit
+259,lexical-core,v0.8.2, , ,https://github.com/Alexhuszagh/rust-lexical
+260,serde_yaml,v0.8.23, ,https://docs.rs/serde_yaml/,https://github.com/dtolnay/serde-yaml
+261,tokio-executor,v0.1.10,https://github.com/tokio-rs/tokio,https://docs.rs/tokio-executor/0.1.10/tokio_executor,https://github.com/tokio-rs/tokio
+262,tracing-futures,v0.2.5,https://tokio.rs/, ,https://github.com/tokio-rs/tracing
+263,rustc-serialize,v0.3.24,https://github.com/rust-lang/rustc-serialize,https://doc.rust-lang.org/rustc-serialize,https://github.com/rust-lang/rustc-serialize
+264,arrayref,v0.3.6, ,https://docs.rs/arrayref,https://github.com/droundy/arrayref
+265,web-sys,v0.3.55,https://rustwasm.github.io/wasm-bindgen/web-sys/index.html,https://rustwasm.github.io/wasm-bindgen/api/web_sys/,https://github.com/rustwasm/wasm-bindgen/tree/master/crates/web-sys
+266,ctor,v0.1.21, , ,https://github.com/mmastrac/rust-ctor
+267,darling_macro,v0.13.1, , ,https://github.com/TedDriggs/darling
+268,darling_core,v0.13.1, , ,https://github.com/TedDriggs/darling
+269,darling,v0.13.1, ,https://docs.rs/darling/0.13.1,https://github.com/TedDriggs/darling
+270,webpki-roots,v0.22.2,https://github.com/rustls/webpki-roots, ,https://github.com/rustls/webpki-roots
+271,phf_generator,v0.10.0, , ,https://github.com/sfackler/rust-phf
+272,tokio-rustls,v0.23.2,https://github.com/tokio-rs/tls,https://docs.rs/tokio-rustls,https://github.com/tokio-rs/tls
+273,hostname,v0.3.1, , ,https://github.com/svartalf/hostname
+274,tokio-reactor,v0.1.12,https://tokio.rs/,https://docs.rs/tokio-reactor/0.1.12/tokio_reactor,https://github.com/tokio-rs/tokio
+275,time-macros,v0.2.3, , ,https://github.com/time-rs/time
+276,vcpkg,v0.2.15, ,https://docs.rs/vcpkg,https://github.com/mcgoo/vcpkg-rs
+277,tracing-subscriber,v0.3.5,https://tokio.rs/, ,https://github.com/tokio-rs/tracing
+278,rustc-hash,v1.1.0, , ,https://github.com/rust-lang-nursery/rustc-hash
+279,owning_ref,v0.4.1, ,http://kimundi.github.io/owning-ref-rs/owning_ref/index.html,https://github.com/Kimundi/owning-ref-rs
+280,strum_macros,v0.23.1,https://github.com/Peternator7/strum,https://docs.rs/strum,https://github.com/Peternator7/strum
+281,tokio-threadpool,v0.1.18,https://github.com/tokio-rs/tokio,https://docs.rs/tokio-threadpool/0.1.18/tokio_threadpool,https://github.com/tokio-rs/tokio
+282,constant_time_eq,v0.1.5, ,https://docs.rs/constant_time_eq,https://github.com/cesarb/constant_time_eq
+283,xml-rs,v0.8.4, ,http://docs.rs/xml-rs/,https://github.com/netvl/xml-rs
+284,bit-vec,v0.6.3,https://github.com/contain-rs/bit-vec,https://contain-rs.github.io/bit-vec/bit_vec,https://github.com/contain-rs/bit-vec
+285,strum,v0.23.0,https://github.com/Peternator7/strum,https://docs.rs/strum,https://github.com/Peternator7/strum
+286,crossbeam,v0.8.1,https://github.com/crossbeam-rs/crossbeam,https://docs.rs/crossbeam,https://github.com/crossbeam-rs/crossbeam
+287,tokio-tcp,v0.1.4,https://tokio.rs/,https://docs.rs/tokio-tcp/0.1.4/tokio_tcp,https://github.com/tokio-rs/tokio
+288,cpuid-bool,v0.99.99, , ,https://github.com/RustCrypto/utils/tree/master/cpufeatures
+289,ordered-float,v2.10.0, , ,https://github.com/reem/rust-ordered-float
+290,standback,v0.4.0, , ,https://github.com/jhpratt/standback
+291,time-macros-impl,v0.1.2, , ,https://github.com/time-rs/time
+292,schannel,v0.1.19, ,https://docs.rs/schannel/0/x86_64-pc-windows-gnu/schannel/,https://github.com/steffengy/schannel-rs
+293,language-tags,v0.3.2, , ,https://github.com/pyfisch/rust-language-tags
+294,sha1,v0.6.0, , ,https://github.com/mitsuhiko/rust-sha1
+295,gcc,v0.3.55, ,https://docs.rs/gcc,https://github.com/alexcrichton/gcc-rs
+296,cpufeatures,v0.2.1, ,https://docs.rs/cpufeatures,https://github.com/RustCrypto/utils
+297,tokio-current-thread,v0.1.7,https://github.com/tokio-rs/tokio,https://docs.rs/tokio-current-thread/0.1.7/tokio_current_thread,https://github.com/tokio-rs/tokio
+298,proc-macro-crate,v1.1.0, ,https://docs.rs/proc-macro-crate,https://github.com/bkchr/proc-macro-crate
+299,bindgen,v0.59.2,https://rust-lang.github.io/rust-bindgen/,https://docs.rs/bindgen,https://github.com/rust-lang/rust-bindgen
+300,sharded-slab,v0.1.4,https://github.com/hawkw/sharded-slab,https://docs.rs/sharded-slab/0.1.4/sharded_slab,https://github.com/hawkw/sharded-slab
+301,winreg,v0.10.1, ,https://docs.rs/winreg,https://github.com/gentoo90/winreg-rs
+302,ident_case,v1.0.1, ,https://docs.rs/ident_case/1.0.1,https://github.com/TedDriggs/ident_case
+303,console,v0.15.0,https://github.com/mitsuhiko/console,https://docs.rs/console,https://github.com/mitsuhiko/console
+304,tokio-sync,v0.1.8,https://tokio.rs/,https://docs.rs/tokio-sync/0.1.8/tokio_sync,https://github.com/tokio-rs/tokio
+305,half,v1.8.2, , ,https://github.com/starkat99/half-rs
+306,security-framework,v2.4.2,https://lib.rs/crates/security_framework,https://docs.rs/security_framework,https://github.com/kornelski/rust-security-framework
+307,signal-hook,v0.3.13, ,https://docs.rs/signal-hook,https://github.com/vorner/signal-hook
+308,wasm-bindgen-futures,v0.4.28,https://rustwasm.github.io/wasm-bindgen/,https://docs.rs/wasm-bindgen-futures,https://github.com/rustwasm/wasm-bindgen/tree/master/crates/futures
+309,derivative,v2.2.0, ,https://mcarton.github.io/rust-derivative/,https://github.com/mcarton/rust-derivative
+310,security-framework-sys,v2.4.2,https://lib.rs/crates/security-framework-sys,https://kornelski.github.io/rust-security-framework/doc/security_framework_sys,https://github.com/kornelski/rust-security-framework
+311,phf_codegen,v0.10.0, , ,https://github.com/sfackler/rust-phf
+312,unreachable,v1.0.0, , ,https://github.com/reem/rust-unreachable.git
+313,ws2_32-sys,v0.2.1, ,https://retep998.github.io/doc/ws2_32/,https://github.com/retep998/winapi-rs
+314,clang-sys,v1.3.0, ,https://docs.rs/clang-sys,https://github.com/KyleMayes/clang-sys
+315,difference,v2.0.0, ,https://johannhof.github.io/difference.rs/difference/index.html,https://github.com/johannhof/difference.rs
+316,serde_cbor,v0.11.2, , ,https://github.com/pyfisch/cbor
+317,pest_derive,v2.1.0,https://pest-parser.github.io/,https://docs.rs/pest,https://github.com/pest-parser/pest
+318,cloudabi,v0.1.0,https://cloudabi.org/,https://docs.rs/cloudabi/,https://github.com/nuxinl/cloudabi
+319,prost-derive,v0.9.0, ,https://docs.rs/prost-derive,https://github.com/tokio-rs/prost
+320,prost,v0.9.0, ,https://docs.rs/prost,https://github.com/tokio-rs/prost
+321,colored,v2.0.0,https://github.com/mackwic/colored, ,https://github.com/mackwic/colored
+322,matchers,v0.1.0,https://github.com/hawkw/matchers,https://docs.rs/matchers/,https://github.com/hawkw/matchers
+323,fxhash,v0.2.1, ,https://docs.rs/fxhash,https://github.com/cbreeden/fxhash
+324,tracing-log,v0.1.2,https://tokio.rs/, ,https://github.com/tokio-rs/tracing
+325,cexpr,v0.6.0, ,https://docs.rs/cexpr/,https://github.com/jethrogb/rust-cexpr
+326,bitvec,v0.22.3,https://bitvecto-rs.github.io/bitvec,https://docs.rs/bitvec/latest/bitvec,https://github.com/bitvecto-rs/bitvec
+327,tempdir,v0.3.7,https://github.com/rust-lang/tempdir,https://doc.rust-lang.org/tempdir,https://github.com/rust-lang/tempdir
+328,redox_users,v0.4.0, ,https://docs.rs/redox_users,https://gitlab.redox-os.org/redox-os/users
+329,md5,v0.7.0,https://github.com/stainless-steel/md5,https://docs.rs/md5,https://github.com/stainless-steel/md5
+330,multimap,v0.8.3, ,https://docs.rs/multimap/,https://github.com/havarnov/multimap
+331,globset,v0.4.8,https://github.com/BurntSushi/ripgrep/tree/master/crates/globset,https://docs.rs/globset,https://github.com/BurntSushi/ripgrep/tree/master/crates/globset
+332,futures-cpupool,v0.1.8,https://github.com/alexcrichton/futures-rs,https://docs.rs/futures-cpupool,https://github.com/alexcrichton/futures-rs
+333,prost-types,v0.9.0, ,https://docs.rs/prost-types,https://github.com/tokio-rs/prost
+334,tar,v0.4.38,https://github.com/alexcrichton/tar-rs,https://docs.rs/tar,https://github.com/alexcrichton/tar-rs
+335,ucd-util,v0.1.8,https://github.com/BurntSushi/ucd-generate,https://docs.rs/ucd-util,https://github.com/BurntSushi/ucd-generate
+336,threadpool,v1.8.1,https://github.com/rust-threadpool/rust-threadpool,https://docs.rs/threadpool,https://github.com/rust-threadpool/rust-threadpool
+337,tokio-tls,v0.3.1,https://tokio.rs/,https://docs.rs/tokio-tls/0.3.1/tokio_tls/,https://github.com/tokio-rs/tokio
+338,pest_generator,v2.1.3,https://pest-parser.github.io/,https://docs.rs/pest,https://github.com/pest-parser/pest
+339,pest_meta,v2.1.3,https://pest-parser.github.io/,https://docs.rs/pest,https://github.com/pest-parser/pest
+340,cast,v0.3.0, ,https://docs.rs/cast,https://github.com/japaric/cast.rs
+341,utf-8,v0.7.6, , ,https://github.com/SimonSapin/rust-utf8
+342,match_cfg,v0.1.0,https://github.com/gnzlbg/match_cfg,https://docs.rs/match_cfg,https://github.com/gnzlbg/match_cfg
+343,cmake,v0.1.48,https://github.com/alexcrichton/cmake-rs,https://docs.rs/cmake,https://github.com/alexcrichton/cmake-rs
+344,criterion,v0.3.5,https://bheisler.github.io/criterion.rs/book/index.html, ,https://github.com/bheisler/criterion.rs
+345,tokio-udp,v0.1.6,https://tokio.rs/,https://docs.rs/tokio-udp/0.1.6/tokio_udp,https://github.com/tokio-rs/tokio
+346,tokio-codec,v0.1.2,https://tokio.rs/,https://docs.rs/tokio-codec/0.1.2/tokio_codec,https://github.com/tokio-rs/tokio
+347,lru-cache,v0.1.2,https://github.com/contain-rs/lru-cache,https://contain-rs.github.io/lru-cache/lru_cache,https://github.com/contain-rs/lru-cache
+348,peeking_take_while,v1.0.0, , ,https://github.com/fitzgen/peeking_take_while
+349,fuchsia-zircon,v0.3.3, , ,https://fuchsia.googlesource.com/garnet/
+350,fuchsia-zircon-sys,v0.3.3, , ,https://fuchsia.googlesource.com/garnet/
+351,radium,v0.7.0,https://github.com/bitvecto-rs/radium,https://docs.rs/radium,https://github.com/bitvecto-rs/radium
+352,cargo_metadata,v0.14.1, , ,https://github.com/oli-obk/cargo_metadata
+353,tracing-serde,v0.1.2,https://tokio.rs/, ,https://github.com/tokio-rs/tracing
+354,tokio-fs,v0.1.7,https://tokio.rs/,https://docs.rs/tokio-fs/0.1.7/tokio_fs,https://github.com/tokio-rs/tokio
+355,string,v0.3.0,https://github.com/carllerche/string,https://docs.rs/string/0.3.0/string/,https://github.com/carllerche/string
+356,criterion-plot,v0.4.4, , ,https://github.com/bheisler/criterion.rs
+357,getopts,v0.2.21,https://github.com/rust-lang/getopts,https://doc.rust-lang.org/getopts,https://github.com/rust-lang/getopts
+358,tokio-uds,v0.2.7,https://github.com/tokio-rs/tokio,https://docs.rs/tokio-uds/0.2.7/tokio_uds/,https://github.com/tokio-rs/tokio
+359,fs2,v0.4.3, ,https://docs.rs/fs2,https://github.com/danburkert/fs2-rs
+360,tinytemplate,v1.2.1, , ,https://github.com/bheisler/TinyTemplate
+361,prost-build,v0.9.0, ,https://docs.rs/prost-build,https://github.com/tokio-rs/prost
+362,approx,v0.5.0,https://github.com/brendanzab/approx,https://docs.rs/approx,https://github.com/brendanzab/approx
+363,tokio-stream,v0.1.8,https://tokio.rs/,https://docs.rs/tokio-stream/0.1.8/tokio_stream,https://github.com/tokio-rs/tokio
+364,libgit2-sys,v0.12.26+1.3.0, , ,https://github.com/rust-lang/git2-rs
+365,git2,v0.13.25, ,https://docs.rs/git2,https://github.com/rust-lang/git2-rs
+366,tokio-native-tls,v0.3.0,https://tokio.rs/,https://docs.rs/tokio-native-tls,https://github.com/tokio-rs/tls
+367,hyper-rustls,v0.23.0,https://github.com/ctz/hyper-rustls, ,https://github.com/ctz/hyper-rustls
+368,num-derive,v0.3.3,https://github.com/rust-num/num-derive,https://docs.rs/num-derive,https://github.com/rust-num/num-derive
+369,bit-set,v0.5.2,https://github.com/contain-rs/bit-set,https://contain-rs.github.io/bit-set/bit_set,https://github.com/contain-rs/bit-set
+370,pretty_assertions,v1.0.0, ,https://docs.rs/pretty_assertions,https://github.com/colin-kiegel/rust-pretty-assertions
+371,data-encoding,v2.3.2, ,https://docs.rs/data-encoding,https://github.com/ia0/data-encoding
+372,memmap,v0.7.0, ,https://docs.rs/memmap,https://github.com/danburkert/memmap-rs
+373,pulldown-cmark,v0.9.0, , ,https://github.com/raphlinus/pulldown-cmark
+374,fuchsia-cprng,v0.1.1, , ,https://fuchsia.googlesource.com/fuchsia/+/master/garnet/public/rust/fuchsia-cprng
+375,async-stream-impl,v0.3.2,https://github.com/tokio-rs/async-stream,https://docs.rs/async-stream-impl,https://github.com/tokio-rs/async-stream
+376,async-stream,v0.3.2,https://github.com/tokio-rs/async-stream,https://docs.rs/async-stream,https://github.com/tokio-rs/async-stream
+377,dirs-sys-next,v0.1.2, , ,https://github.com/xdg-rs/dirs/tree/master/dirs-sys
+378,vsdb,v0.11.8,https://github.com/ccmlm/vsdb, ,https://github.com/ccmlm/vsdb
+379,crc,v2.1.0, ,https://docs.rs/crc,https://github.com/mrhooray/crc-rs.git
+380,crunchy,v0.2.2, , , 
+381,doc-comment,v0.3.3, ,http://docs.rs/crate/doc-comment,https://github.com/GuillaumeGomez/doc-comment
+382,rdrand,v0.8.1, ,https://docs.rs/rdrand/0.8.1/,https://github.com/nagisa/rust_rdrand/
+383,vsdb_derive,v0.1.1,https://github.com/ccmlm/vsdb_derive, ,https://github.com/ccmlm/vsdb_derive
+384,vsdbsled,v0.34.7-patched,https://github.com/spacejam/sled,https://docs.rs/sled/,https://github.com/spacejam/sled
+385,protobuf,v2.25.2,https://github.com/stepancheg/rust-protobuf/,https://github.com/stepancheg/rust-protobuf/blob/master/README.md,https://github.com/stepancheg/rust-protobuf/
+386,rustversion,v1.0.6, ,https://docs.rs/rustversion,https://github.com/dtolnay/rustversion
+387,unindent,v0.1.7, ,https://docs.rs/unindent,https://github.com/dtolnay/indoc
+388,trust-dns-proto,v0.20.3,http://www.trust-dns.org/index.html,https://docs.rs/trust-dns-proto,https://github.com/bluejekyll/trust-dns
+389,fallible-iterator,v0.2.0, , ,https://github.com/sfackler/rust-fallible-iterator
+390,synom,v0.11.3, ,https://docs.rs/synom/,https://github.com/dtolnay/syn
+391,paste-impl,v0.1.18, , ,https://github.com/dtolnay/paste
+392,curl-sys,v0.4.52+curl-7.81.0, ,https://docs.rs/curl-sys,https://github.com/alexcrichton/curl-rust
+393,xattr,v0.2.2, ,https://docs.rs/xattr,https://github.com/Stebalien/xattr
+394,traitobject,v0.1.0, , ,https://github.com/reem/rust-traitobject.git
+395,indoc,v1.0.3, ,https://docs.rs/indoc,https://github.com/dtolnay/indoc
+396,dirs-next,v2.0.0, , ,https://github.com/xdg-rs/dirs
+397,fastrand,v1.6.0,https://github.com/smol-rs/fastrand, ,https://github.com/smol-rs/fastrand
+398,terminal_size,v0.1.17, ,http://eminence.github.io/terminal-size/doc/terminal_size/index.html,https://github.com/eminence/terminal-size
+399,funty,v2.0.0, ,https://docs.rs/funty,https://github.com/myrrlyn/funty
+400,aes,v0.7.5, ,https://docs.rs/aes,https://github.com/RustCrypto/block-ciphers
+401,build_const,v0.2.2, ,https://docs.rs/build_const,https://github.com/vitiral/build_const
+402,oorandom,v11.1.3, , ,https://sr.ht/~icefox/oorandom/
+403,cache-padded,v1.2.0,https://github.com/smol-rs/cache-padded, ,https://github.com/smol-rs/cache-padded
+404,ntapi,v0.3.6, ,https://docs.rs/ntapi/*/x86_64-pc-windows-msvc/ntapi/,https://github.com/MSxDOS/ntapi
+405,concurrent-queue,v1.2.2,https://github.com/stjepang/concurrent-queue,https://docs.rs/concurrent-queue,https://github.com/stjepang/concurrent-queue
+406,trust-dns-resolver,v0.20.3,http://www.trust-dns.org/index.html,https://docs.rs/trust-dns-resolver,https://github.com/bluejekyll/trust-dns
+407,parking,v2.0.0,https://github.com/stjepang/parking,https://docs.rs/parking,https://github.com/stjepang/parking
+408,async-task,v4.0.3,https://github.com/stjepang/async-task,https://docs.rs/async-task,https://github.com/stjepang/async-task
+409,quickcheck,v1.0.3,https://github.com/BurntSushi/quickcheck,https://docs.rs/quickcheck,https://github.com/BurntSushi/quickcheck
+410,plotters,v0.3.1,https://plotters-rs.github.io/, ,https://github.com/38/plotters
+411,curve25519-dalek,v3.2.0,https://dalek.rs/curve25519-dalek,https://docs.rs/curve25519-dalek,https://github.com/dalek-cryptography/curve25519-dalek
+412,futures-lite,v1.12.0,https://github.com/smol-rs/futures-lite,https://docs.rs/futures-lite,https://github.com/smol-rs/futures-lite
+413,diff,v0.1.12,https://github.com/utkarshkukreti/diff.rs,https://docs.rs/diff,https://github.com/utkarshkukreti/diff.rs
+414,event-listener,v2.5.1,https://github.com/stjepang/event-listener,https://docs.rs/event-listener,https://github.com/stjepang/event-listener
+415,serde_bytes,v0.11.5, ,https://docs.serde.rs/serde_bytes/,https://github.com/serde-rs/bytes
+416,tungstenite,v0.16.0,https://github.com/snapview/tungstenite-rs,https://docs.rs/tungstenite/0.16.0,https://github.com/snapview/tungstenite-rs
+417,combine,v4.6.2, ,https://docs.rs/combine,https://github.com/Marwes/combine
+418,encode_unicode,v0.3.6, ,https://docs.rs/encode_unicode/,https://github.com/tormol/encode_unicode
+419,resolv-conf,v0.7.0,http://github.com/tailhook/resolv-conf,https://docs.rs/resolv-conf/,http://github.com/tailhook/resolv-conf
+420,zstd-sys,v1.6.2+zstd.1.5.1, , ,https://github.com/gyscos/zstd-rs
+421,dashmap,v5.0.0,https://github.com/xacrimon/dashmap,https://docs.rs/dashmap,https://github.com/xacrimon/dashmap
+422,string_cache,v0.8.2, ,https://docs.rs/string_cache/,https://github.com/servo/string-cache
+423,thread-id,v4.0.0, ,https://docs.rs/thread-id,https://github.com/ruuda/thread-id
+424,tap,v1.0.1,https://github.com/myrrlyn/tap,https://docs.rs/tap,https://github.com/myrrlyn/tap
+425,waker-fn,v1.1.0,https://github.com/stjepang/waker-fn,https://docs.rs/waker-fn,https://github.com/stjepang/waker-fn
+426,libm,v0.2.1, ,https://docs.rs/libm,https://github.com/rust-lang/libm
+427,curl,v0.4.42,https://github.com/alexcrichton/curl-rust,https://docs.rs/curl,https://github.com/alexcrichton/curl-rust
+428,wyz,v0.5.0,https://myrrlyn.net/crates/wyz,https://docs.rs/wyz,https://github.com/myrrlyn/wyz
+429,blake2b_simd,v1.0.0, ,https://docs.rs/blake2b_simd,https://github.com/oconnor663/blake2_simd
+430,async-channel,v1.6.1,https://github.com/smol-rs/async-channel,https://docs.rs/async-channel,https://github.com/smol-rs/async-channel
+431,ignore,v0.4.18,https://github.com/BurntSushi/ripgrep/tree/master/crates/ignore,https://docs.rs/ignore,https://github.com/BurntSushi/ripgrep/tree/master/crates/ignore
+432,zstd-safe,v4.1.3+zstd.1.5.1, , ,https://github.com/gyscos/zstd-rs
+433,zstd,v0.9.2+zstd.1.5.1, ,https://docs.rs/zstd,https://github.com/gyscos/zstd-rs
+434,wait-timeout,v0.2.0,https://github.com/alexcrichton/wait-timeout,https://docs.rs/wait-timeout,https://github.com/alexcrichton/wait-timeout
+435,tiny-keccak,v2.0.2,https://github.com/debris/tiny-keccak, , 
+436,zeroize_derive,v1.2.2, , ,https://github.com/RustCrypto/utils/tree/master/zeroize/derive
+437,png,v0.17.2, , ,https://github.com/image-rs/image-png.git
+438,deflate,v1.0.0,https://github.com/image-rs/deflate-rs,https://docs.rs/deflate/,https://github.com/image-rs/deflate-rs
+439,twoway,v0.2.2, ,https://docs.rs/twoway/,https://github.com/bluss/twoway
+440,handlebars,v4.2.0,https://github.com/sunng87/handlebars-rust,https://docs.rs/crate/handlebars/,https://github.com/sunng87/handlebars-rust
+441,enum-as-inner,v0.3.3, ,https://docs.rs/enum-as-inner,https://github.com/bluejekyll/enum-as-inner
+442,precomputed-hash,v0.1.1, , ,https://github.com/emilio/precomputed-hash
+443,tower-layer,v0.3.1,https://github.com/tower-rs/tower,https://docs.rs/tower-layer/0.3.0-alpha.2,https://github.com/tower-rs/tower
+444,sha3,v0.10.0, ,https://docs.rs/sha3,https://github.com/RustCrypto/hashes
+445,prometheus,v0.13.0,https://github.com/tikv/rust-prometheus,https://docs.rs/prometheus,https://github.com/tikv/rust-prometheus
+446,new_debug_unreachable,v1.0.4, ,https://docs.rs/new_debug_unreachable,https://github.com/mbrubeck/rust-debug-unreachable
+447,pem,v1.0.2,https://github.com/jcreekmore/pem-rs.git,https://docs.rs/pem/,https://github.com/jcreekmore/pem-rs.git
+448,async-std,v1.10.0,https://async.rs/,https://docs.rs/async-std,https://github.com/async-rs/async-std
+449,tokio-buf,v0.1.1,https://tokio.rs/,https://docs.rs/tokio-buf/0.2.0-alpha.1/tokio_buf,https://github.com/tokio-rs/tokio
+450,mio-extras,v2.0.6, ,https://docs.rs/mio-extras,https://github.com/dimbleby/mio-extras
+451,md-5,v0.10.0, ,https://docs.rs/md-5,https://github.com/RustCrypto/hashes
+452,image,v0.23.14,https://github.com/image-rs/image,https://docs.rs/image,https://github.com/image-rs/image
+453,zip,v0.5.13, , ,https://github.com/zip-rs/zip.git
+454,Inflector,v0.11.4,https://github.com/whatisinternet/inflector,https://docs.rs/Inflector,https://github.com/whatisinternet/inflector
+455,aes-soft,v0.99.99, , ,https://github.com/RustCrypto/block-ciphers/tree/master/aes
+456,c2-chacha,v0.3.3, ,https://docs.rs/c2-chacha,https://github.com/cryptocorrosion/cryptocorrosion
+457,errno,v0.2.8, ,https://docs.rs/errno,https://github.com/lambda-fairy/rust-errno
+458,futures-timer,v3.0.2,https://github.com/async-rs/futures-timer,https://docs.rs/futures-timer,https://github.com/async-rs/futures-timer
+459,libssh2-sys,v0.2.23, ,https://docs.rs/libssh2-sys,https://github.com/alexcrichton/ssh2-rs
+460,take_mut,v0.2.2,https://github.com/Sgeo/take_mut, ,https://github.com/Sgeo/take_mut
+461,notify,v4.0.17,https://github.com/notify-rs/notify,https://docs.rs/notify,https://github.com/notify-rs/notify.git
+462,number_prefix,v0.4.0, ,https://docs.rs/number_prefix,https://github.com/ogham/rust-number-prefix
+463,input_buffer,v0.5.0,https://github.com/snapview/input_buffer,https://docs.rs/input_buffer/0.3.1,https://github.com/snapview/input_buffer
+464,async-io,v1.6.0,https://github.com/smol-rs/async-io,https://docs.rs/async-io,https://github.com/smol-rs/async-io
+465,keccak,v0.1.0, ,https://docs.rs/keccak,https://github.com/RustCrypto/sponges
+466,tower,v0.4.11,https://github.com/tower-rs/tower,https://docs.rs/tower/0.4.11,https://github.com/tower-rs/tower
+467,rand_xoshiro,v0.6.0,https://rust-random.github.io/book,https://docs.rs/rand_xoshiro,https://github.com/rust-random/rngs
+468,ghost,v0.1.2, ,https://docs.rs/ghost,https://github.com/dtolnay/ghost
+469,polling,v2.2.0,https://github.com/smol-rs/polling,https://docs.rs/polling,https://github.com/smol-rs/polling
+470,publicsuffix,v2.1.1, ,https://docs.rs/publicsuffix,https://github.com/rushmorem/publicsuffix
+471,inotify,v0.10.0, ,https://docs.rs/inotify,https://github.com/hannobraun/inotify
+472,cipher,v0.3.0, ,https://docs.rs/cipher,https://github.com/RustCrypto/traits
+473,blocking,v1.1.0,https://github.com/smol-rs/blocking,https://docs.rs/blocking,https://github.com/smol-rs/blocking
+474,kv-log-macro,v1.0.7, ,https://docs.rs/kv-log-macro,https://github.com/yoshuawuyts/kv-log-macro
+475,fs_extra,v1.2.0,https://github.com/webdesus/fs_extra,https://docs.rs/fs_extra,https://github.com/webdesus/fs_extra
+476,inventory,v0.2.1, ,https://docs.rs/inventory,https://github.com/dtolnay/inventory
+477,convert_case,v0.5.0, , ,https://github.com/rutrum/convert-case
+478,slog,v2.7.0,https://github.com/slog-rs/slog,https://docs.rs/slog,https://github.com/slog-rs/slog
+479,dotenv,v0.15.0,https://github.com/dotenv-rs/dotenv, ,https://github.com/dotenv-rs/dotenv
+480,ascii,v1.0.0, ,https://docs.rs/ascii,https://github.com/tomprogrammer/rust-ascii
+481,inventory-impl,v0.1.11, ,https://docs.rs/inventory,https://github.com/dtolnay/inventory
+482,lru,v0.7.2,https://github.com/jeromefroe/lru-rs,https://docs.rs/lru/,https://github.com/jeromefroe/lru-rs.git
+483,bytemuck,v1.7.3, , ,https://github.com/Lokathor/bytemuck
+484,home,v0.5.3, ,https://docs.rs/home,https://github.com/brson/home
+485,cookie_store,v0.15.1, ,https://docs.rs/cookie_store,https://github.com/pfernie/cookie_store
+486,inotify-sys,v0.1.5, ,https://docs.rs/inotify-sys,https://github.com/hannobraun/inotify-sys
+487,utf8parse,v0.2.0, ,https://docs.rs/utf8parse/,https://github.com/jwilm/vte
+488,scoped_threadpool,v0.1.9, ,http://kimundi.github.io/scoped-threadpool-rs/scoped_threadpool/index.html,https://github.com/Kimundi/scoped-threadpool-rs
+489,async-executor,v1.4.1,https://github.com/smol-rs/async-executor,https://docs.rs/async-executor,https://github.com/smol-rs/async-executor
+490,headers,v0.3.5,https://hyper.rs/, ,https://github.com/hyperium/headers
+491,aead,v0.4.3, ,https://docs.rs/aead,https://github.com/RustCrypto/traits
+492,atomic-waker,v1.0.0,https://github.com/stjepang/atomic-waker,https://docs.rs/atomic-waker,https://github.com/stjepang/atomic-waker
+493,rust-argon2,v1.0.0,https://github.com/sru-systems/rust-argon2,https://docs.sru-systems.com/rust-argon2/1.0.0/argon2/,https://github.com/sru-systems/rust-argon2
+494,term_size,v0.3.2, ,https://docs.rs/term_size/,https://github.com/kbknapp/term_size-rs.git
+495,indoc-impl,v0.3.6, ,https://docs.rs/indoc,https://github.com/dtolnay/indoc
+496,termios,v0.3.3,https://github.com/dcuddeback/termios-rs,http://dcuddeback.github.io/termios-rs/termios/,https://github.com/dcuddeback/termios-rs
+497,miniz-sys,v0.1.12, ,https://docs.rs/miniz-sys,https://github.com/alexcrichton/flate2-rs
+498,async-mutex,v1.4.0,https://github.com/stjepang/async-lock,https://docs.rs/async-mutex,https://github.com/stjepang/async-lock
+499,indicatif,v0.16.2, ,https://docs.rs/indicatif,https://github.com/mitsuhiko/indicatif
+500,headers-core,v0.2.0,https://hyper.rs/, ,https://github.com/hyperium/headers
+501,pyo3,v0.15.1,https://github.com/pyo3/pyo3,https://docs.rs/crate/pyo3/,https://github.com/pyo3/pyo3
+502,actix-web,v3.3.3,https://actix.rs/, ,https://github.com/actix/actix-web.git
+503,float-cmp,v0.9.0, ,https://docs.rs/float-cmp,https://github.com/mikedilger/float-cmp
+504,actix-rt,v2.5.1,https://actix.rs/, ,https://github.com/actix/actix-net.git
+505,typeable,v0.1.2, , ,https://github.com/reem/rust-typeable
+506,config,v0.11.0,https://github.com/mehcode/config-rs, ,https://github.com/mehcode/config-rs
+507,string_cache_codegen,v0.5.1, ,https://docs.rs/string_cache_codegen/,https://github.com/servo/string-cache
+508,universal-hash,v0.4.1, ,https://docs.rs/universal-hash,https://github.com/RustCrypto/traits
+509,tokio-tungstenite,v0.16.1,https://github.com/snapview/tokio-tungstenite,https://docs.rs/tokio-tungstenite/0.16.1,https://github.com/snapview/tokio-tungstenite
+510,serde_test,v1.0.133,https://serde.rs/,https://docs.serde.rs/serde_test/,https://github.com/serde-rs/serde
+511,actix-codec,v0.4.2, , ,https://github.com/actix/actix-net
+512,ctrlc,v3.2.1,https://github.com/Detegr/rust-ctrlc,http://detegr.github.io/doc/ctrlc,https://github.com/Detegr/rust-ctrlc.git
+513,actix-utils,v3.0.0, , ,https://github.com/actix/actix-net
+514,widestring,v0.5.1, , ,https://github.com/starkat99/widestring-rs
+515,color_quant,v1.1.0, , ,https://github.com/image-rs/color_quant.git
+516,copyless,v0.1.5,https://github.com/kvark/copyless, ,https://github.com/kvark/copyless
+517,libsqlite3-sys,v0.23.2, , ,https://github.com/jgallagher/rusqlite
+518,rawpointer,v0.2.1, ,https://docs.rs/rawpointer/,https://github.com/bluss/rawpointer/
+519,rustls-native-certs,v0.6.1,https://github.com/ctz/rustls-native-certs, ,https://github.com/ctz/rustls-native-certs
+520,const-random-macro,v0.1.13, ,https://docs.rs/const-random,https://github.com/tkaitchuck/constrandom
+521,const-random,v0.1.13, ,https://docs.rs/const-random,https://github.com/tkaitchuck/constrandom
+522,try_from,v0.3.2, , ,https://github.com/derekjw/try_from
+523,btm,v0.1.8,https://github.com/ccmlm/btm, ,https://github.com/ccmlm/btm.git
+524,matrixmultiply,v0.3.2, ,https://docs.rs/matrixmultiply/,https://github.com/bluss/matrixmultiply/
+525,polyval,v0.5.3, ,https://docs.rs/polyval,https://github.com/RustCrypto/universal-hashes
+526,actix-http,v2.2.1,https://actix.rs/, ,https://github.com/actix/actix-web.git
+527,aes-gcm,v0.9.4, ,https://docs.rs/aes-gcm,https://github.com/RustCrypto/AEADs
+528,quick-xml,v0.22.0, ,https://docs.rs/quick-xml,https://github.com/tafia/quick-xml
+529,buf_redux,v0.8.4, ,https://docs.rs/buf_redux,https://github.com/abonander/buf_redux
+530,pbkdf2,v0.10.0, ,https://docs.rs/pbkdf2,https://github.com/RustCrypto/password-hashes/tree/master/pbkdf2
+531,pretty_env_logger,v0.4.0, , ,https://github.com/seanmonstar/pretty-env-logger
+532,ghash,v0.4.4, ,https://docs.rs/ghash,https://github.com/RustCrypto/universal-hashes
+533,multipart,v0.18.0, ,http://docs.rs/multipart/,http://github.com/abonander/multipart
+534,ct-logs,v0.9.0,https://github.com/ctz/ct-logs, ,https://github.com/ctz/ct-logs
+535,bzip2-sys,v0.1.11+1.0.8,https://github.com/alexcrichton/bzip2-rs,https://docs.rs/bzip2-sys,https://github.com/alexcrichton/bzip2-rs
+536,actix-service,v2.0.2, , ,https://github.com/actix/actix-net
+537,serde_repr,v0.1.7, ,https://docs.rs/serde_repr,https://github.com/dtolnay/serde-repr
+538,libflate,v1.1.1,https://github.com/sile/libflate, ,https://github.com/sile/libflate
+539,signature,v1.5.0, ,https://docs.rs/signature,https://github.com/RustCrypto/traits/tree/master/signature
+540,base-x,v0.2.8,https://github.com/OrKoN/base-x-rs, ,https://github.com/OrKoN/base-x-rs
+541,brotli2,v0.3.2,https://github.com/alexcrichton/brotli2-rs,https://docs.rs/brotli2,https://github.com/alexcrichton/brotli2-rs
+542,brotli-sys,v0.3.2,https://github.com/alexcrichton/brotli2-rs,https://docs.rs/brotli-sys,https://github.com/alexcrichton/brotli2-rs
+543,num_enum,v0.5.6, , ,https://github.com/illicitonion/num_enum
+544,sized-chunks,v0.6.5, ,http://docs.rs/sized-chunks,https://github.com/bodil/sized-chunks
+545,num_enum_derive,v0.5.6, , ,https://github.com/illicitonion/num_enum
+546,ed25519-dalek,v1.0.1,https://dalek.rs/,https://docs.rs/ed25519-dalek,https://github.com/dalek-cryptography/ed25519-dalek
+547,rusoto_core,v0.47.0,https://www.rusoto.org/,https://docs.rs/rusoto_core,https://github.com/rusoto/rusoto
+548,termion,v1.5.6, ,https://docs.rs/termion,https://gitlab.redox-os.org/redox-os/termion
+549,docopt,v1.1.1,https://github.com/docopt/docopt.rs,http://burntsushi.net/rustdoc/docopt/,https://github.com/docopt/docopt.rs
+550,bzip2,v0.4.3,https://github.com/alexcrichton/bzip2-rs,https://docs.rs/bzip2,https://github.com/alexcrichton/bzip2-rs
+551,tonic-build,v0.6.2,https://github.com/hyperium/tonic,https://docs.rs/tonic-build/0.6.2/tonic_build/,https://github.com/hyperium/tonic
+552,rusoto_credential,v0.47.0, ,https://docs.rs/rusoto_credential,https://github.com/rusoto/rusoto
+553,jpeg-decoder,v0.2.1, ,https://docs.rs/jpeg-decoder,https://github.com/image-rs/jpeg-decoder
+554,shell-escape,v0.1.5, , ,https://github.com/sfackler/shell-escape
+555,actix-server,v1.0.4,https://actix.rs/, ,https://github.com/actix/actix-net.git
+556,async-global-executor,v2.0.2,https://github.com/Keruspe/async-global-executor,https://docs.rs/async-global-executor,https://github.com/Keruspe/async-global-executor
+557,rust-ini,v0.17.0, ,https://docs.rs/rust-ini/,https://github.com/zonyitoo/rust-ini
+558,serde_derive_internals,v0.26.0,https://serde.rs/,https://docs.rs/serde_derive_internals,https://github.com/serde-rs/serde
+559,erased-serde,v0.3.17, ,https://docs.rs/erased-serde,https://github.com/dtolnay/erased-serde
+560,actix-web-codegen,v0.4.0,https://actix.rs/, ,https://github.com/actix/actix-web.git
+561,ctr,v0.8.0, ,https://docs.rs/ctr,https://github.com/RustCrypto/stream-ciphers
+562,plotters-backend,v0.3.2,https://plotters-rs.github.io/, ,https://github.com/plotters-rs/plotters-backend
+563,tonic,v0.6.2,https://github.com/hyperium/tonic,https://docs.rs/tonic/0.6.2/tonic/,https://github.com/hyperium/tonic
+564,gif,v0.11.3,https://github.com/image-rs/image-gif,https://docs.rs/gif,https://github.com/image-rs/image-gif
+565,actix-router,v0.4.0, , ,https://github.com/actix/actix-web.git
+566,plotters-svg,v0.3.1,https://plotters-rs.github.io/, ,https://github.com/plotters-rs/plotters-svg.git
+567,actix-macros,v0.2.3, , ,https://github.com/actix/actix-net.git
+568,proptest,v1.0.0,https://altsysrq.github.io/proptest-book/proptest/index.html,https://altsysrq.github.io/rustdoc/proptest/1.0.0/proptest/,https://github.com/altsysrq/proptest
+569,pyo3-macros,v0.15.1,https://github.com/pyo3/pyo3, ,https://github.com/pyo3/pyo3
+570,pyo3-macros-backend,v0.15.1,https://github.com/pyo3/pyo3, ,https://github.com/pyo3/pyo3
+571,wincolor,v1.0.3,https://github.com/BurntSushi/termcolor/tree/master/wincolor,https://docs.rs/wincolor,https://github.com/BurntSushi/termcolor/tree/master/wincolor
+572,openssl-src,v300.0.4+3.0.1, , ,https://github.com/alexcrichton/openssl-src-rs
+573,async-lock,v2.4.0,https://github.com/smol-rs/async-lock,https://docs.rs/async-lock,https://github.com/smol-rs/async-lock
+574,ed25519,v1.3.0, ,https://docs.rs/ed25519,https://github.com/RustCrypto/signatures/tree/master/ed25519
+575,warp,v0.3.2, ,https://docs.rs/warp,https://github.com/seanmonstar/warp
+576,mio-named-pipes,v0.1.7,https://github.com/bbqsrc/mio-named-pipes,https://docs.rs/mio-named-pipes/,https://github.com/bbqsrc/mio-named-pipes
+577,json,v0.12.4, ,https://docs.rs/json/,https://github.com/maciejhirsz/json-rust
+578,encoding,v0.2.33,https://github.com/lifthrasiir/rust-encoding,https://lifthrasiir.github.io/rust-encoding/,https://github.com/lifthrasiir/rust-encoding
+579,encoding-index-japanese,v1.20141219.5,https://github.com/lifthrasiir/rust-encoding, , 
+580,encoding-index-korean,v1.20141219.5,https://github.com/lifthrasiir/rust-encoding, , 
+581,encoding-index-simpchinese,v1.20141219.5,https://github.com/lifthrasiir/rust-encoding, , 
+582,encoding_index_tests,v0.1.4,https://github.com/lifthrasiir/rust-encoding, , 
+583,encoding-index-tradchinese,v1.20141219.5,https://github.com/lifthrasiir/rust-encoding, , 
+584,encoding-index-singlebyte,v1.20141219.5,https://github.com/lifthrasiir/rust-encoding, , 
+585,jsonrpc-core,v18.0.0,https://github.com/paritytech/jsonrpc,https://docs.rs/jsonrpc-core/,https://github.com/paritytech/jsonrpc
+586,predicates,v2.1.0,https://github.com/assert-rs/predicates-rs,https://docs.rs/predicates,https://github.com/assert-rs/predicates-rs
+587,dyn-clone,v1.0.4, ,https://docs.rs/dyn-clone,https://github.com/dtolnay/dyn-clone
+588,stdweb,v0.4.20,https://github.com/koute/stdweb,https://docs.rs/stdweb/*/stdweb/,https://github.com/koute/stdweb
+589,bytecount,v0.6.2, , ,https://github.com/llogiq/bytecount
+590,yansi,v0.5.0, ,https://docs.rs/yansi,https://github.com/SergioBenitez/yansi
+591,os_str_bytes,v6.0.0, , ,https://github.com/dylni/os_str_bytes
+592,directories,v4.0.1, , ,https://github.com/soc/directories-rs
+593,slog-term,v2.8.0,https://github.com/slog-rs/slog,https://docs.rs/slog-term,https://github.com/slog-rs/term
+594,ena,v0.14.0,https://github.com/rust-lang-nursery/ena, ,https://github.com/rust-lang-nursery/ena
+595,wasmparser,v0.82.0,https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wasmparser, ,https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wasmparser
+596,stringprep,v0.1.2, ,https://docs.rs/stringprep/0.1.2/stringprep,https://github.com/sfackler/rust-stringprep
+597,syn-mid,v0.5.3, ,https://docs.rs/syn-mid,https://github.com/taiki-e/syn-mid
+598,rusty-fork,v0.3.0, ,https://docs.rs/rusty-fork,https://github.com/altsysrq/rusty-fork
+599,rusoto_signature,v0.47.0,https://www.rusoto.org/,https://docs.rs/rusoto_signature,https://github.com/rusoto/rusoto
+600,urlencoding,v2.1.0,https://lib.rs/urlencoding, ,https://github.com/kornelski/rust_urlencoding
+601,hkdf,v0.12.0,https://github.com/RustCrypto/KDFs/, ,https://github.com/RustCrypto/KDFs/
+602,predicates-core,v1.0.2,https://github.com/assert-rs/predicates-rs/tree/master/predicates-core,https://docs.rs/predicates-core,https://github.com/assert-rs/predicates-rs/tree/master/predicates-core
+603,downcast-rs,v1.2.0, , ,https://github.com/marcianx/downcast-rs
+604,predicates-tree,v1.0.4,https://github.com/assert-rs/predicates-rs/tree/master/predicates-tree,https://docs.rs/predicates-tree,https://github.com/assert-rs/predicates-rs/tree/master/predicates-tree
+605,blake2,v0.10.2, ,https://docs.rs/blake2,https://github.com/RustCrypto/hashes
+606,actix-threadpool,v0.3.3,https://actix.rs/,https://docs.rs/actix-threadpool/,https://github.com/actix/actix-net.git
+607,serde_with,v1.11.0, ,https://docs.rs/serde_with/,https://github.com/jonasbb/serde_with
+608,actix-tls,v3.0.0, , ,https://github.com/actix/actix-net.git
+609,serde_with_macros,v1.5.1, ,https://docs.rs/serde_with_macros/,https://github.com/jonasbb/serde_with/
+610,twox-hash,v1.6.2, ,https://docs.rs/twox-hash/,https://github.com/shepmaster/twox-hash
+611,rpassword,v5.0.1,https://github.com/conradkleinespel/rpassword,https://docs.rs/rpassword/,https://github.com/conradkleinespel/rpassword
+612,bytestring,v1.0.0,https://actix.rs/,https://docs.rs/bytestring/,https://github.com/actix/actix-net.git
+613,scheduled-thread-pool,v0.2.5, , ,https://github.com/sfackler/scheduled-thread-pool
+614,if_chain,v1.0.2, ,https://docs.rs/if_chain,https://github.com/lambda-fairy/if_chain
+615,discard,v1.0.4,https://github.com/Pauan/rust-discard, ,https://github.com/Pauan/rust-discard
+616,r2d2,v0.8.9, , ,https://github.com/sfackler/r2d2
+617,console_error_panic_hook,v0.1.7, , ,https://github.com/rustwasm/console_error_panic_hook
+618,tendril,v0.4.2, , ,https://github.com/servo/tendril
+619,stdweb-internal-macros,v0.2.9,https://github.com/koute/stdweb,https://docs.rs/stdweb/*/stdweb/,https://github.com/koute/stdweb
+620,slog-async,v2.7.0,https://github.com/slog-rs/slog,https://docs.rs/slog-async,https://github.com/slog-rs/async
+621,stdweb-derive,v0.5.3,https://github.com/koute/stdweb,https://docs.rs/stdweb/*/stdweb/,https://github.com/koute/stdweb
+622,stdweb-internal-runtime,v0.1.5,https://github.com/koute/stdweb,https://docs.rs/stdweb/*/stdweb/,https://github.com/koute/stdweb
+623,awc,v2.0.3,https://actix.rs/, ,https://github.com/actix/actix-web.git
+624,value-bag,v0.1.0, ,https://docs.rs/value-bag,https://github.com/sval-rs/value-bag
+625,clap_derive,v3.0.5, ,https://docs.rs/clap_derive,https://github.com/clap-rs/clap/tree/master/clap_derive
+626,html5ever,v0.25.1, ,https://docs.rs/html5ever,https://github.com/servo/html5ever
+627,tokio-core,v0.1.18,https://tokio.rs/,https://docs.rs/tokio-core/0.1,https://github.com/tokio-rs/tokio-core
+628,futf,v0.1.4, , ,https://github.com/servo/futf
+629,target-lexicon,v0.12.2, ,https://docs.rs/target-lexicon/,https://github.com/bytecodealliance/target-lexicon
+630,output_vt100,v0.1.2, , ,https://github.com/Phundrak/output-vt100-rs
+631,markup5ever,v0.10.1, ,https://docs.rs/markup5ever,https://github.com/servo/html5ever
+632,mac,v0.1.1, , ,https://github.com/reem/rust-mac.git
+633,tokio-signal,v0.2.9,https://github.com/tokio-rs/tokio,https://docs.rs/tokio-signal/0.2.9/tokio_signal,https://github.com/tokio-rs/tokio
+634,actix-connect,v2.0.0,https://actix.rs/,https://docs.rs/actix-connect/,https://github.com/actix/actix-net.git
+635,chunked_transfer,v1.4.0, , ,https://github.com/frewsxcv/rust-chunked-transfer
+636,memmap2,v0.5.2, ,https://docs.rs/memmap2,https://github.com/RazrFalcon/memmap2-rs
+637,rand_distr,v0.4.2,https://rust-random.github.io/book,https://docs.rs/rand_distr,https://github.com/rust-random/rand
+638,rusttype,v0.9.2,https://gitlab.redox-os.org/redox-os/rusttype,https://docs.rs/rusttype,https://gitlab.redox-os.org/redox-os/rusttype
+639,typed-arena,v2.0.1, ,https://docs.rs/typed-arena,https://github.com/SimonSapin/rust-typed-arena
+640,rusoto_s3,v0.47.0,https://www.rusoto.org/,https://docs.rs/rusoto_s3,https://github.com/rusoto/rusoto
+641,bitmaps,v3.1.0, ,http://docs.rs/bitmaps,https://github.com/bodil/bitmaps
+642,ordermap,v0.4.2, ,https://docs.rs/ordermap/,https://github.com/bluss/ordermap
+643,unsafe-any,v0.4.2, , ,https://github.com/reem/rust-unsafe-any
+644,typemap,v0.3.3, , ,https://github.com/reem/rust-typemap
+645,antidote,v1.0.0, ,https://sfackler.github.io/rust-antidote/doc/v1.0.0/antidote,https://github.com/sfackler/rust-antidote
+646,serde_ignored,v0.1.2, , ,https://github.com/dtolnay/serde-ignored
+647,mach,v0.3.2, , ,https://github.com/fitzgen/mach
+648,serde-value,v0.7.0, ,https://docs.rs/serde-value/*/serde_value/,https://github.com/arcnmx/serde-value
+649,gl_generator,v0.14.0,https://github.com/brendanzab/gl-rs/,https://docs.rs/gl_generator,https://github.com/brendanzab/gl-rs/
+650,prettytable-rs,v0.8.0,https://github.com/phsym/prettytable-rs,https://docs.rs/crate/prettytable-rs/,https://github.com/phsym/prettytable-rs
+651,redox_termios,v0.1.2, ,https://docs.rs/redox_termios,https://gitlab.redox-os.org/redox-os/termios
+652,rust-crypto,v0.2.36,https://github.com/DaGenix/rust-crypto/, ,https://github.com/DaGenix/rust-crypto/
+653,serde-hjson,v0.9.1, , ,https://github.com/hjson/hjson-rust
+654,chrono-tz,v0.6.1, ,https://docs.rs/chrono-tz,https://github.com/chronotope/chrono-tz
+655,diesel,v1.4.8,https://diesel.rs/,https://docs.rs/diesel/,https://github.com/diesel-rs/diesel
+656,slog-scope,v4.4.0,https://github.com/slog-rs/slog,https://docs.rs/slog-scope,https://github.com/slog-rs/scope
+657,async-compression,v0.3.8, , ,https://github.com/Nemo157/async-compression
+658,tiff,v0.7.1, , ,https://github.com/image-rs/image-tiff
+659,parity-wasm,v0.42.2,https://github.com/paritytech/parity-wasm,https://docs.rs/parity-wasm,https://github.com/paritytech/parity-wasm
+660,vte,v0.10.1, ,https://docs.rs/vte/,https://github.com/alacritty/vte
+661,unsigned-varint,v0.7.1, , ,https://github.com/paritytech/unsigned-varint
+662,parse-zoneinfo,v0.3.0, , ,https://github.com/djzin/parse-zoneinfo
+663,hex-literal,v0.3.4, ,https://docs.rs/hex-literal,https://github.com/RustCrypto/utils
+664,snap,v1.0.5,https://github.com/BurntSushi/rust-snappy,https://docs.rs/snap,https://github.com/BurntSushi/rust-snappy
+665,rusqlite,v0.26.3, ,http://docs.rs/rusqlite/,https://github.com/rusqlite/rusqlite
+666,simple_asn1,v0.6.1, , ,https://github.com/acw/simple_asn1
+667,libnghttp2-sys,v0.1.7+1.45.0,https://github.com/alexcrichton/nghttp2-rs, ,https://github.com/alexcrichton/nghttp2-rs
+668,priority-queue,v1.2.1, ,https://docs.rs/priority-queue,https://github.com/garro95/priority-queue
+669,derive_builder,v0.10.2, ,https://docs.rs/derive_builder/0.10.2,https://github.com/colin-kiegel/rust-derive-builder
+670,derive_builder_core,v0.10.2, ,https://docs.rs/derive_builder_core,https://github.com/colin-kiegel/rust-derive-builder
+671,bytesize,v1.1.0,https://github.com/hyunsik/bytesize/,https://docs.rs/bytesize/,https://github.com/hyunsik/bytesize/
+672,treeline,v0.1.0,https://github.com/softprops/treeline,https://softprops.github.io/treeline,https://github.com/softprops/treeline
+673,humansize,v1.1.1,https://github.com/LeopoldArkham/humansize,https://docs.rs/humansize,https://github.com/LeopoldArkham/humansize
+674,debugid,v0.7.2,https://sentry.io/,https://docs.rs/debugid,https://github.com/getsentry/rust-debugid
+675,bs58,v0.4.0, , ,https://github.com/mycorrhiza/bs58-rs
+676,jemalloc-sys,v0.3.2,https://github.com/gnzlbg/jemallocator,https://docs.rs/jemallocator-sys,https://github.com/gnzlbg/jemallocator
+677,fallible-streaming-iterator,v0.1.9, , ,https://github.com/sfackler/fallible-streaming-iterator
+678,diesel_derives,v1.4.1,https://diesel.rs/,https://diesel.rs/guides/,https://github.com/diesel-rs/diesel/tree/master/diesel_derives
+679,tokio-openssl,v0.6.3, , ,https://github.com/sfackler/tokio-openssl
+680,xdg,v2.4.0,https://github.com/whitequark/rust-xdg,https://docs.rs/xdg/,https://github.com/whitequark/rust-xdg
+681,clicolors-control,v1.0.1, ,https://docs.rs/clicolors-control,https://github.com/mitsuhiko/clicolors-control
+682,uint,v0.9.1,http://parity.io/, ,https://github.com/paritytech/parity-common
+683,open,v2.0.2, , ,https://github.com/Byron/open-rs
+684,codespan-reporting,v0.11.1,https://github.com/brendanzab/codespan,https://docs.rs/codespan-reporting,https://github.com/brendanzab/codespan
+685,im,v15.0.0,http://immutable.rs/,http://immutable.rs/,https://github.com/bodil/im-rs
+686,derive-new,v0.5.9, , ,https://github.com/nrc/derive-new
+687,async-process,v1.3.0,https://github.com/smol-rs/async-process,https://docs.rs/async-process,https://github.com/smol-rs/async-process
+688,winit,v0.26.1, ,https://docs.rs/winit,https://github.com/rust-windowing/winit
+689,pathdiff,v0.2.1, ,https://docs.rs/pathdiff/,https://github.com/Manishearth/pathdiff
+690,rmp,v0.8.10, ,https://docs.rs/rmp,https://github.com/3Hren/msgpack-rust
+691,vergen,v6.0.0,http://github.com/rustyhorde/vergen,http://docs.rs/vergen,https://github.com/rustyhorde/vergen
+692,scroll,v0.11.0, ,https://docs.rs/scroll,https://github.com/m4b/scroll
+693,actix-testing,v1.0.1,https://actix.rs/,https://docs.rs/actix-testing/,https://github.com/actix/actix-net.git
+694,x25519-dalek,v1.2.0,https://dalek.rs/,https://docs.rs/x25519-dalek,https://github.com/dalek-cryptography/x25519-dalek
+695,assert_matches,v1.5.0,https://github.com/murarth/assert_matches,https://docs.rs/assert_matches/,https://github.com/murarth/assert_matches
+696,nalgebra,v0.30.1,https://nalgebra.org/,https://www.nalgebra.org/docs,https://github.com/dimforge/nalgebra
+697,hashlink,v0.7.0, ,https://docs.rs/hashlink,https://github.com/kyren/hashlink
+698,actix,v0.12.0, ,https://docs.rs/actix,https://github.com/actix/actix
+699,simplelog,v0.11.2, ,https://docs.rs/simplelog/,https://github.com/drakulix/simplelog.rs
+700,vec-arena,v1.2.0, ,https://docs.rs/vec-arena,https://github.com/smol-rs/vec-arena
+701,scroll_derive,v0.11.0, ,https://docs.rs/scroll_derive,https://github.com/m4b/scroll
+702,sysinfo,v0.22.5, , ,https://github.com/GuillaumeGomez/sysinfo
+703,fern,v0.6.0, ,https://docs.rs/fern/,https://github.com/daboross/fern
+704,wayland-sys,v0.29.4, ,https://smithay.github.io/wayland-rs/wayland_sys/,https://github.com/smithay/wayland-rs
+705,rustfix,v0.6.0, ,https://docs.rs/rustfix,https://github.com/rust-lang-nursery/rustfix
+706,protobuf-codegen,v2.25.2,https://github.com/stepancheg/rust-protobuf/, ,https://github.com/stepancheg/rust-protobuf/
+707,normalize-line-endings,v0.3.0, ,https://derekdreery.github.io/normalize-line-endings/normalize_line_endings/index.html,https://github.com/derekdreery/normalize-line-endings
+708,nb-connect,v1.2.0,https://github.com/smol-rs/nb-connect,https://docs.rs/nb-connect,https://github.com/smol-rs/nb-connect
+709,ref-cast-impl,v1.0.6, ,https://docs.rs/ref-cast,https://github.com/dtolnay/ref-cast
+710,ref-cast,v1.0.6, ,https://docs.rs/ref-cast,https://github.com/dtolnay/ref-cast
+711,wayland-client,v0.29.4, ,https://smithay.github.io/wayland-rs/wayland_client/,https://github.com/smithay/wayland-rs
+712,rustc-hex,v2.1.0,https://github.com/debris/rustc-hex, ,https://github.com/debris/rustc-hex
+713,strip-ansi-escapes,v0.1.1,https://github.com/luser/strip-ansi-escapes,https://docs.rs/strip-ansi-escapes,https://github.com/luser/strip-ansi-escapes
+714,inflate,v0.4.5, , ,https://github.com/PistonDevelopers/inflate.git
+715,rustyline,v9.1.2, ,http://docs.rs/rustyline,https://github.com/kkawakam/rustyline
+716,git2-curl,v0.14.1, ,https://docs.rs/git2-curl,https://github.com/rust-lang/git2-rs
+717,blake3,v1.3.0, ,https://docs.rs/blake3,https://github.com/BLAKE3-team/BLAKE3
+718,integer-encoding,v3.0.2, ,https://docs.rs/integer-encoding/,https://github.com/dermesser/integer-encoding-rs
+719,gloo-timers,v0.2.2,https://github.com/rustwasm/gloo, ,https://github.com/rustwasm/gloo/tree/master/crates/timers
+720,wayland-scanner,v0.29.4, ,https://smithay.github.io/wayland-rs/wayland_scanner/,https://github.com/smithay/wayland-rs
+721,rust_decimal,v1.19.0, ,https://docs.rs/rust_decimal/,https://github.com/paupino/rust-decimal
+722,jemallocator,v0.3.2,https://github.com/gnzlbg/jemallocator,https://docs.rs/jemallocator,https://github.com/gnzlbg/jemallocator
+723,syntex_syntax,v0.59.1, ,https://docs.rs/syntex_syntax,https://github.com/serde-rs/syntex
+724,rle-decode-fast,v1.0.1, , ,https://github.com/WanzenBug/rle-decode-helper
+725,opentelemetry,v0.16.0,https://github.com/open-telemetry/opentelemetry-rust, ,https://github.com/open-telemetry/opentelemetry-rust
+726,trybuild,v1.0.54, ,https://docs.rs/trybuild,https://github.com/dtolnay/trybuild
+727,ruc,v0.6.6,https://github.com/FindoraNetwork/ruc, ,https://github.com/FindoraNetwork/ruc.git
+728,dlib,v0.5.0, , ,https://github.com/vberger/dlib
+729,unicode_categories,v0.1.1, ,http://swgillespie.github.io/unicode-categories/unicode_categories/,https://github.com/swgillespie/unicode-categories
+730,podio,v0.2.0, ,http://mvdnes.github.io/rust-docs/podio/podio/index.html,https://github.com/mvdnes/podio.git
+731,os_pipe,v1.0.0, ,https://docs.rs/os_pipe,https://github.com/oconnor663/os_pipe.rs
+732,whoami,v1.2.1,https://github.com/libcala/whoami/blob/main/CHANGELOG.md,https://docs.rs/whoami,https://github.com/libcala/whoami
+733,lzma-sys,v0.1.17,https://github.com/alexcrichton/xz2-rs,https://docs.rs/lzma-sys,https://github.com/alexcrichton/xz2-rs
+734,phf_macros,v0.10.0, , ,https://github.com/sfackler/rust-phf
+735,compiler_builtins,v0.1.66,https://github.com/rust-lang/compiler-builtins,https://docs.rs/compiler_builtins,https://github.com/rust-lang/compiler-builtins
+736,tokio-service,v0.1.0,https://github.com/tokio-rs/tokio-service,https://tokio-rs.github.io/tokio-service,https://github.com/tokio-rs/tokio-service
+737,cargo-platform,v0.1.2,https://github.com/rust-lang/cargo,https://docs.rs/cargo-platform,https://github.com/rust-lang/cargo
+738,rgb,v0.8.31,https://lib.rs/crates/rgb,https://docs.rs/rgb,https://github.com/kornelski/rust-rgb
+739,actix_derive,v0.6.0, ,https://docs.rs/actix-derive,https://github.com/actix/actix
+740,users,v0.11.0, ,https://docs.rs/users/,https://github.com/ogham/rust-users
+741,snafu-derive,v0.7.0, ,https://docs.rs/snafu,https://github.com/shepmaster/snafu
+742,snafu,v0.7.0, ,https://docs.rs/snafu,https://github.com/shepmaster/snafu
+743,bufstream,v0.1.4,https://github.com/alexcrichton/bufstream,https://docs.rs/bufstream,https://github.com/alexcrichton/bufstream
+744,serial_test,v0.5.1, , ,https://github.com/palfrey/serial_test/
+745,secp256k1,v0.21.2,https://github.com/rust-bitcoin/rust-secp256k1/,https://docs.rs/secp256k1/,https://github.com/rust-bitcoin/rust-secp256k1/
+746,khronos_api,v3.1.0,https://github.com/brendanzab/gl-rs/,https://docs.rs/khronos_api,https://github.com/brendanzab/gl-rs/
+747,ipconfig,v0.3.0,https://github.com/liranringel/ipconfig,https://docs.rs/ipconfig/0.3/x86_64-pc-windows-msvc/ipconfig/,https://github.com/liranringel/ipconfig
+748,byte-slice-cast,v1.2.0, , ,https://github.com/sdroege/bytes-num-slice-cast
+749,xz2,v0.1.6,https://github.com/alexcrichton/xz2-rs,https://docs.rs/xz2,https://github.com/alexcrichton/xz2-rs
+750,serial_test_derive,v0.5.1, , ,https://github.com/palfrey/serial_test/
+751,core-graphics,v0.22.3,https://github.com/servo/core-graphics-rs, ,https://github.com/servo/core-foundation-rs
+752,redis,v0.21.5,https://github.com/mitsuhiko/redis-rs,https://docs.rs/redis,https://github.com/mitsuhiko/redis-rs
+753,wasm-bindgen-test,v0.3.28, , ,https://github.com/rustwasm/wasm-bindgen
+754,ndarray,v0.15.4, ,https://docs.rs/ndarray/,https://github.com/rust-ndarray/ndarray
+755,globwalk,v0.8.1, , ,https://github.com/gilnaa/globwalk
+756,crossterm,v0.22.1, ,https://docs.rs/crossterm/,https://github.com/crossterm-rs/crossterm
+757,aesni,v0.99.99, , ,https://github.com/RustCrypto/block-ciphers/tree/master/aes
+758,fixed-hash,v0.7.0,https://github.com/paritytech/parity-common,https://docs.rs/fixed-hash/,https://github.com/paritytech/parity-common
+759,blake2-rfc,v0.2.18, ,https://docs.rs/blake2-rfc,https://github.com/cesarb/blake2-rfc
+760,leb128,v0.2.5, ,https://docs.rs/leb128,https://github.com/gimli-rs/leb128
+761,psm,v0.1.16, ,https://docs.rs/psm/0.1.14,https://github.com/rust-lang/stacker/
+762,libsecp256k1,v0.7.0, , ,https://github.com/paritytech/libsecp256k1
+763,uname,v0.1.1,https://github.com/icorderi/rust-uname,https://icorderi.github.io/rust-uname/index.html,https://github.com/icorderi/rust-uname
+764,wasm-bindgen-test-macro,v0.3.28, , ,https://github.com/rustwasm/wasm-bindgen
+765,crypto-hash,v0.3.4, ,https://docs.rs/crypto-hash,https://github.com/malept/crypto-hash
+766,rmp-serde,v0.15.5, ,https://docs.rs/rmp-serde,https://github.com/3Hren/msgpack-rust
+767,deunicode,v1.3.1,https://lib.rs/crates/deunicode,https://docs.rs/deunicode,https://github.com/kornelski/deunicode/
+768,raw-window-handle,v0.4.2, ,https://docs.rs/raw-window-handle,https://github.com/rust-windowing/raw-window-handle
+769,ipnetwork,v0.18.0, , ,https://github.com/achanda/ipnetwork
+770,goblin,v0.4.3, ,https://docs.rs/goblin,https://github.com/m4b/goblin
+771,block-modes,v0.8.1, ,https://docs.rs/block-modes,https://github.com/RustCrypto/block-ciphers
+772,lzw,v0.10.0, , ,https://github.com/nwin/lzw.git
+773,lexical,v6.0.1, , ,https://github.com/Alexhuszagh/rust-lexical
+774,jsonwebtoken,v7.2.0,https://github.com/Keats/jsonwebtoken, ,https://github.com/Keats/jsonwebtoken
+775,tera,v1.15.0,https://tera.netlify.com/, ,https://github.com/Keats/tera
+776,stream-cipher,v0.99.99, , ,https://github.com/RustCrypto/traits/tree/master/cipher
+777,x11-dl,v2.19.1, ,https://docs.rs/x11-dl,https://github.com/AltF02/x11-rs.git
+778,opener,v0.5.0, , ,https://github.com/Seeker14491/opener
+779,wayland-protocols,v0.29.4, ,https://smithay.github.io/wayland-rs/wayland_protocols/,https://github.com/smithay/wayland-rs
+780,slog-json,v2.4.0,https://github.com/slog-rs/slog,https://docs.rs/slog-json,https://github.com/slog-rs/json
+781,jni-sys,v0.3.0, ,https://docs.rs/jni-sys/0.3.0/jni_sys,https://github.com/sfackler/rust-jni-sys
+782,sentry-types,v0.23.0,https://sentry.io/welcome/, ,https://github.com/getsentry/sentry-rust
+783,sentry,v0.23.0,https://sentry.io/welcome/, ,https://github.com/getsentry/sentry-rust
+784,seahash,v4.1.0, ,https://docs.rs/seahash,https://gitlab.redox-os.org/redox-os/seahash
+785,syntex_pos,v0.59.1, ,https://docs.rs/syntex_pos,https://github.com/serde-rs/syntex
+786,syntex_errors,v0.59.1, ,https://docs.rs/syntex_errors,https://github.com/serde-rs/syntex
+787,unic-common,v0.9.0, , ,https://github.com/open-i18n/rust-unic/
+788,unic-char-range,v0.9.0, , ,https://github.com/open-i18n/rust-unic/
+789,unic-char-property,v0.9.0, , ,https://github.com/open-i18n/rust-unic/
+790,unic-ucd-version,v0.9.0, , ,https://github.com/open-i18n/rust-unic/
+791,errno-dragonfly,v0.1.2, , ,https://github.com/mneumann/errno-dragonfly-rs
+792,ureq,v2.4.0, , ,https://github.com/algesten/ureq
+793,bigdecimal,v0.3.0,https://github.com/akubera/bigdecimal-rs,https://docs.rs/bigdecimal,https://github.com/akubera/bigdecimal-rs
+794,tracing-opentelemetry,v0.16.0,https://github.com/tokio-rs/tracing/tree/master/tracing-opentelemetry, ,https://github.com/tokio-rs/tracing
+795,postgres-protocol,v0.6.3, , ,https://github.com/sfackler/rust-postgres
+796,unchecked-index,v0.2.2, ,https://docs.rs/unchecked-index/,https://github.com/bluss/unchecked-index
+797,slug,v0.1.4,https://github.com/Stebalien/slug-rs,https://docs.rs/slug,https://github.com/Stebalien/slug-rs
+798,dialoguer,v0.9.0,https://github.com/mitsuhiko/dialoguer,https://docs.rs/dialoguer,https://github.com/mitsuhiko/dialoguer
+799,more-asserts,v0.2.2,https://github.com/thomcc/rust-more-asserts,https://docs.rs/more-asserts,https://github.com/thomcc/rust-more-asserts
+800,hmac-drbg,v0.3.0, , , 
+801,tower-util,v0.3.1,https://github.com/tower-rs/tower,https://docs.rs/tower-util/0.3.1,https://github.com/tower-rs/tower
+802,enum_primitive,v0.1.1,https://github.com/andersk/enum_primitive-rs,https://andersk.github.io/enum_primitive-rs/enum_primitive/,https://github.com/andersk/enum_primitive-rs.git
+803,indenter,v0.3.3,https://github.com/yaahc/indenter,https://docs.rs/indenter,https://github.com/yaahc/indenter
+804,cpp_demangle,v0.3.5, ,https://docs.rs/cpp_demangle,https://github.com/gimli-rs/cpp_demangle
+805,euclid,v0.22.6, ,https://docs.rs/euclid/,https://github.com/servo/euclid
+806,numtoa,v0.2.4, ,https://docs.rs/numtoa,https://gitlab.com/mmstick/numtoa
+807,serde_qs,v0.8.5, ,https://docs.rs/serde_qs,https://github.com/samscott89/serde_qs
+808,assert_cmd,v2.0.2,https://github.com/assert-rs/assert_cmd,http://docs.rs/assert_cmd/,https://github.com/assert-rs/assert_cmd.git
+809,eyre,v0.6.5, ,https://docs.rs/eyre,https://github.com/yaahc/eyre
+810,wayland-commons,v0.29.4, ,https://smithay.github.io/wayland-rs/wayland_commons/,https://github.com/smithay/wayland-rs
+811,parity-scale-codec,v2.3.1, , ,https://github.com/paritytech/parity-scale-codec
+812,raw-cpuid,v10.2.0,https://github.com/gz/rust-cpuid,https://docs.rs/raw-cpuid/,https://github.com/gz/rust-cpuid
+813,url_serde,v0.2.0, ,https://docs.rs/url_serde/,https://github.com/servo/rust-url
+814,slog-stdlog,v4.1.0,https://github.com/slog-rs/stdlog,https://docs.rs/slog-stdlog,https://github.com/slog-rs/stdlog
+815,tower-discover,v0.3.0,https://github.com/tower-rs/tower,https://docs.rs/tower-discover/0.3.0,https://github.com/tower-rs/tower
+816,jni,v0.19.0, ,https://docs.rs/jni,https://github.com/jni-rs/jni-rs
+817,primitive-types,v0.10.1,https://github.com/paritytech/parity-common, , 
+818,linked_hash_set,v0.1.4, , ,https://github.com/alexheretic/linked-hash-set
+819,retain_mut,v0.1.5, , ,https://github.com/upsuper/retain_mut
+820,plain,v0.2.3,https://github.com/randomites/plain,https://docs.rs/plain,https://github.com/randomites/plain
+821,tower-limit,v0.3.1,https://github.com/tower-rs/tower,https://docs.rs/tower-limit/0.1.3,https://github.com/tower-rs/tower
+822,anymap,v0.12.1, , ,https://github.com/chris-morgan/anymap
+823,getset,v0.1.2, , ,https://github.com/Hoverbear/getset
+824,cbindgen,v0.20.0, , ,https://github.com/eqrion/cbindgen/
+825,tower-buffer,v0.3.0,https://github.com/tower-rs/tower,https://docs.rs/tower-buffer/0.3.0,https://github.com/tower-rs/tower
+826,tower-timeout,v0.3.0,https://github.com/tower-rs/tower,https://docs.rs/tower-timeout/0.3.0,https://github.com/tower-rs/tower
+827,thrift,v0.15.0,http://thrift.apache.org/,https://docs.rs/thrift,https://github.com/apache/thrift/tree/master/lib/rs
+828,string_cache_shared,v0.3.0, , ,https://github.com/servo/string-cache
+829,state,v0.5.2, ,https://docs.rs/state/0.5.2,https://github.com/SergioBenitez/state
+830,tower-retry,v0.3.0,https://github.com/tower-rs/tower,https://docs.rs/tower-retry/0.3.0,https://github.com/tower-rs/tower
+831,tower-load-shed,v0.3.0,https://github.com/tower-rs/tower,https://docs.rs/tower-load-shed/0.3.0,https://github.com/tower-rs/tower
+832,fragile,v1.0.0,https://github.com/mitsuhiko/rust-fragile, ,https://github.com/mitsuhiko/rust-fragile
+833,nb,v1.0.0,https://github.com/rust-embedded/nb,https://docs.rs/nb,https://github.com/rust-embedded/nb
+834,shared_child,v1.0.0, ,https://docs.rs/shared_child,https://github.com/oconnor663/shared_child.rs
+835,cesu8,v1.1.0, ,http://emk.github.io/cesu8-rs/cesu8/index.html,https://github.com/emk/cesu8-rs
+836,rocksdb,v0.17.0,https://github.com/rust-rocksdb/rust-rocksdb, ,https://github.com/rust-rocksdb/rust-rocksdb
+837,tokio-process,v0.2.5,https://github.com/tokio-rs/tokio,https://docs.rs/tokio-process/0.2.5/tokio_process,https://github.com/tokio-rs/tokio
+838,smithay-client-toolkit,v0.15.3, ,https://smithay.github.io/client-toolkit,https://github.com/smithay/client-toolkit
+839,miniz_oxide_c_api,v0.3.0,https://github.com/Frommi/miniz_oxide/,https://docs.rs/miniz_oxide_c_api,https://github.com/Frommi/miniz_oxide
+840,sys-info,v0.9.1, ,https://docs.rs/sys-info,https://github.com/FillZpp/sys-info-rs
+841,ron,v0.7.0,https://github.com/ron-rs/ron,https://docs.rs/ron/,https://github.com/ron-rs/ron
+842,mdbook,v0.4.15, ,http://rust-lang.github.io/mdBook/index.html,https://github.com/rust-lang/mdBook
+843,chacha20,v0.8.1, , ,https://github.com/RustCrypto/stream-ciphers
+844,memory_units,v0.4.0, , ,https://github.com/pepyakin/memory_units
+845,unic-ucd-segment,v0.9.0, , ,https://github.com/open-i18n/rust-unic/
+846,unic-segment,v0.9.0, , ,https://github.com/open-i18n/rust-unic/
+847,librocksdb-sys,v6.20.3, , ,https://github.com/rust-rocksdb/rust-rocksdb
+848,poly1305,v0.7.2, ,https://docs.rs/poly1305,https://github.com/RustCrypto/universal-hashes
+849,platforms,v2.0.0,https://rustsec.org/, ,https://github.com/rustsec/rustsec/tree/main/platforms
+850,async-attributes,v1.1.2,https://github.com/async-rs/async-attributes,https://docs.rs/async-attributes,https://github.com/async-rs/async-attributes
+851,cocoa,v0.24.0,https://github.com/servo/core-foundation-rs, ,https://github.com/servo/core-foundation-rs
+852,duct,v0.13.5,https://github.com/servo/core-foundation-rs,https://docs.rs/duct,https://github.com/oconnor663/duct.rs
+853,ttf-parser,v0.14.0,https://github.com/servo/core-foundation-rs,https://docs.rs/ttf-parser/,https://github.com/RazrFalcon/ttf-parser
+854,bson,v2.1.0,https://github.com/servo/core-foundation-rs,https://docs.rs/ttf-parser/,https://github.com/mongodb/bson-rust
+855,lsp-types,v0.91.1,https://github.com/servo/core-foundation-rs,https://docs.rs/lsp-types,https://github.com/gluon-lang/lsp-types
+856,os_info,v3.0.9,https://github.com/stanislav-tkach/os_info,https://docs.rs/os_info,https://github.com/stanislav-tkach/os_info
+857,wast,v39.0.0,https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wast,https://docs.rs/wast,https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wast
+858,ff,v0.11.0,https://github.com/zkcrypto/ff,https://docs.rs/ff/,https://github.com/zkcrypto/ff
+859,block-cipher-trait,v0.11.0,https://github.com/zkcrypto/ff,https://docs.rs/ff/,https://github.com/RustCrypto/traits/tree/master/cipher
+860,ieee754,v0.2.6,https://github.com/huonw/ieee754,http://docs.rs/ieee754,https://github.com/huonw/ieee754
+861,pq-sys,v0.4.6,https://github.com/huonw/ieee754,http://docs.rs/ieee754,https://github.com/sgrif/pq-sys
+862,jsonrpc-derive,v18.0.0,https://github.com/paritytech/jsonrpc,https://docs.rs/jsonrpc-derive/,https://github.com/paritytech/jsonrpc
+863,atomic,v0.5.1,https://github.com/paritytech/jsonrpc,https://amanieu.github.io/atomic-rs/atomic/index.html,https://github.com/Amanieu/atomic-rs
+864,chacha20poly1305,v0.9.0,https://github.com/paritytech/jsonrpc,https://docs.rs/chacha20poly1305,https://github.com/RustCrypto/AEADs
+865,cgmath,v0.18.0,https://github.com/rustgd/cgmath,https://docs.rs/cgmath,https://github.com/rustgd/cgmath
+866,simple_logger,v1.16.0,https://github.com/rustgd/cgmath,https://docs.rs/cgmath,https://github.com/borntyping/rust-simple_logger
+867,tokio-io-timeout,v1.2.0,https://github.com/rustgd/cgmath,https://docs.rs/cgmath,https://github.com/sfackler/tokio-io-timeout
+868,gethostname,v0.2.1,https://github.com/lunaryorn/gethostname.rs,https://docs.rs/gethostname,https://github.com/lunaryorn/gethostname.rs.git
+869,log4rs,v1.0.0,https://github.com/lunaryorn/gethostname.rs,https://docs.rs/gethostname,https://github.com/estk/log4rs
+870,impl-serde,v0.3.2,https://github.com/paritytech/parity-common,https://docs.rs/gethostname,https://github.com/estk/log4rs
+871,weezl,v0.1.5,https://github.com/paritytech/parity-common,https://docs.rs/weezl,https://github.com/image-rs/lzw.git
+872,glutin,v0.28.0,https://github.com/paritytech/parity-common,https://docs.rs/glutin,https://github.com/rust-windowing/glutin
+873,jsonrpc-pubsub,v18.0.0,https://github.com/paritytech/jsonrpc,https://docs.rs/jsonrpc-pubsub/,https://github.com/paritytech/jsonrpc
+874,impl-codec,v0.5.1,https://github.com/paritytech/parity-common,https://docs.rs/jsonrpc-pubsub/,https://github.com/paritytech/jsonrpc
+875,fsevent-sys,v4.1.0,https://github.com/paritytech/parity-common,https://docs.rs/jsonrpc-pubsub/,https://github.com/octplane/fsevent-rust/tree/master/fsevent-sys
+876,alloc-no-stdlib,v2.0.3,https://github.com/dropbox/rust-alloc-no-stdlib,https://raw.githubusercontent.com/dropbox/rust-alloc-no-stdlib/master/tests/lib.rs,https://github.com/dropbox/rust-alloc-no-stdlib
+877,metrics,v0.17.1,https://github.com/metrics-rs/metrics,https://docs.rs/metrics,https://github.com/metrics-rs/metrics
+878,backoff,v0.4.0,https://github.com/ihrwein/backoff,https://docs.rs/backoff,https://github.com/ihrwein/backoff
+879,objc,v0.2.7,https://github.com/ihrwein/backoff,http://ssheldon.github.io/rust-objc/objc/,http://github.com/SSheldon/rust-objc
+880,fst,v0.4.7,https://github.com/BurntSushi/fst,https://docs.rs/fst,https://github.com/BurntSushi/fst
+881,group,v0.11.0,https://github.com/zkcrypto/group,https://docs.rs/group/,https://github.com/zkcrypto/group
+882,enumflags2_derive,v0.7.3,https://github.com/zkcrypto/group,https://docs.rs/group/,https://github.com/NieDzejkob/enumflags2
+883,enumflags2,v0.7.3,https://github.com/zkcrypto/group,https://docs.rs/enumflags2,https://github.com/NieDzejkob/enumflags2
+884,insta,v1.10.0,https://insta.rs/,https://docs.rs/enumflags2,https://github.com/mitsuhiko/insta
+885,brotli-decompressor,v2.3.2,https://github.com/dropbox/rust-brotli-decompressor,https://github.com/dropbox/rust-brotli-decompressor/blob/master/README.md,https://github.com/dropbox/rust-brotli-decompressor
+886,mockall_derive,v0.11.0,https://github.com/dropbox/rust-brotli-decompressor,https://docs.rs/mockall_derive,https://github.com/asomers/mockall
+887,mockall,v0.11.0,https://github.com/dropbox/rust-brotli-decompressor,https://docs.rs/mockall,https://github.com/asomers/mockall
+888,multihash,v0.15.0,https://github.com/dropbox/rust-brotli-decompressor,https://docs.rs/multihash/,https://github.com/multiformats/rust-multihash
+889,downcast,v0.11.0,https://github.com/dropbox/rust-brotli-decompressor,https://docs.rs/downcast,https://github.com/fkoep/downcast-rs
+890,camino,v1.0.5,https://github.com/dropbox/rust-brotli-decompressor,https://docs.rs/camino,https://github.com/withoutboats/camino
+891,pico-args,v0.4.2,https://github.com/dropbox/rust-brotli-decompressor,https://docs.rs/pico-args/,https://github.com/RazrFalcon/pico-args
+892,shell-words,v1.0.0,https://github.com/dropbox/rust-brotli-decompressor,https://docs.rs/pico-args/,https://github.com/tmiasko/shell-words
+893,crypto-common,v0.1.1,https://github.com/dropbox/rust-brotli-decompressor,https://docs.rs/crypto-common,https://github.com/RustCrypto/traits
+894,minimal-lexical,v0.2.1,https://github.com/dropbox/rust-brotli-decompressor,https://docs.rs/minimal-lexical,https://github.com/Alexhuszagh/minimal-lexical
+895,malloc_buf,v1.0.0,https://github.com/dropbox/rust-brotli-decompressor,http://ssheldon.github.io/malloc_buf/malloc_buf/,https://github.com/SSheldon/malloc_buf
+896,rls-span,v0.5.4,https://github.com/dropbox/rust-brotli-decompressor,http://ssheldon.github.io/malloc_buf/malloc_buf/,https://github.com/rust-lang/rls
+897,num-format,v0.4.0,https://github.com/bcmyers/num-format,https://docs.rs/num-format,https://github.com/bcmyers/num-format
+898,tower-make,v0.3.0,https://github.com/tower-rs/tower,https://docs.rs/tower-make/0.3.0,https://github.com/tower-rs/tower
+899,im-rc,v15.0.0,http://immutable.rs/,http://immutable.rs/,https://github.com/bodil/im-rs
+900,region,v3.0.0,https://github.com/darfink/region-rs,https://docs.rs/region,https://github.com/darfink/region-rs
+901,compiletest_rs,v0.7.1, , ,https://github.com/laumann/compiletest-rs
+902,serde-xml-rs,v0.5.1, , ,https://github.com/RReverser/serde-xml-rs
+903,annotate-snippets,v0.9.1, , ,https://github.com/rust-lang/annotate-snippets-rs
+904,racer,v2.1.48,https://github.com/racer-rust/racer, ,https://github.com/racer-rust/racer
+905,enum-iterator-derive,v0.7.0,https://github.com/stephaneyfx/enum-iterator,https://docs.rs/enum-iterator-derive,https://github.com/stephaneyfx/enum-iterator.git
+906,enum-iterator,v0.7.0,https://github.com/stephaneyfx/enum-iterator,https://docs.rs/enum-iterator,https://github.com/stephaneyfx/enum-iterator.git
+907,rustc-ap-rustc_data_structures,v727.0.0,https://github.com/stephaneyfx/enum-iterator,https://docs.rs/enum-iterator,https://github.com/rust-lang/rust
+908,protoc,v2.25.2,https://github.com/stepancheg/rust-protobuf/tree/master/protoc/,https://docs.rs/enum-iterator,https://github.com/stepancheg/rust-protobuf/tree/master/protoc/
+909,wasm-timer,v0.2.5,https://github.com/stepancheg/rust-protobuf/tree/master/protoc/,https://docs.rs/enum-iterator,https://github.com/tomaka/wasm-timer
+910,tokio-test,v0.4.2,https://tokio.rs/,https://docs.rs/tokio-test/0.4.2/tokio_test,https://github.com/tokio-rs/tokio
+911,block,v0.1.6,https://tokio.rs/,http://ssheldon.github.io/rust-objc/block/,http://github.com/SSheldon/rust-block
+912,rls-data,v0.19.1,https://tokio.rs/,http://ssheldon.github.io/rust-objc/block/,https://github.com/rust-lang/rls
+913,alloc-stdlib,v0.2.1,https://github.com/dropbox/rust-alloc-no-stdlib,https://raw.githubusercontent.com/dropbox/rust-alloc-no-stdlib/master/alloc-stdlib/tests/lib.rs,https://github.com/dropbox/rust-alloc-no-stdlib
+914,log-mdc,v0.1.0,https://github.com/dropbox/rust-alloc-no-stdlib,https://sfackler.github.io/rust-log-mdc/doc/v0.1.0/log_mdc,https://github.com/sfackler/rust-log-mdc
+915,rustc-ap-rustc_errors,v727.0.0,https://github.com/dropbox/rust-alloc-no-stdlib,https://sfackler.github.io/rust-log-mdc/doc/v0.1.0/log_mdc,https://github.com/rust-lang/rust
+916,jsonrpc-server-utils,v18.0.0,https://github.com/paritytech/jsonrpc,https://docs.rs/jsonrpc-server-utils/,https://github.com/paritytech/jsonrpc
+917,sentry-core,v0.23.0,https://sentry.io/welcome/,https://docs.rs/jsonrpc-server-utils/,https://github.com/getsentry/sentry-rust
+918,typed-builder,v0.9.1,https://sentry.io/welcome/,https://idanarye.github.io/rust-typed-builder/,https://github.com/idanarye/rust-typed-builder
+919,lalrpop-util,v0.19.6,https://sentry.io/welcome/,https://idanarye.github.io/rust-typed-builder/,https://github.com/lalrpop/lalrpop
+920,quine-mc_cluskey,v0.2.4,https://sentry.io/welcome/,https://oli-obk.github.io/quine-mc_cluskey,https://github.com/oli-obk/quine-mc_cluskey
+921,cranelift-entity,v0.80.0,https://sentry.io/welcome/,https://docs.rs/cranelift-entity,https://github.com/bytecodealliance/wasmtime
+922,sentry-backtrace,v0.23.0,https://sentry.io/welcome/,https://docs.rs/cranelift-entity,https://github.com/getsentry/sentry-rust
+923,der,v0.5.1,https://sentry.io/welcome/,https://docs.rs/cranelift-entity,https://github.com/RustCrypto/formats/tree/master/der
+924,migrations_internals,v1.4.1,http://diesel.rs/,https://docs.rs/cranelift-entity,https://github.com/RustCrypto/formats/tree/master/der
+925,jsonrpc-client-transports,v18.0.0,https://github.com/paritytech/jsonrpc,https://docs.rs/jsonrpc-client-transports/,https://github.com/paritytech/jsonrpc
+926,ammonia,v3.1.2,https://github.com/paritytech/jsonrpc,https://docs.rs/ammonia/,https://github.com/rust-ammonia/ammonia
+927,hdrhistogram,v7.4.0,https://github.com/HdrHistogram/HdrHistogram_rust,https://docs.rs/hdrhistogram,https://github.com/HdrHistogram/HdrHistogram_rust.git
+928,tokio-postgres,v0.7.5,https://github.com/HdrHistogram/HdrHistogram_rust,https://docs.rs/hdrhistogram,https://github.com/sfackler/rust-postgres
+929,brotli,v3.3.2,https://github.com/dropbox/rust-brotli,https://docs.rs/brotli/,https://github.com/dropbox/rust-brotli
+930,secrecy,v0.8.0,https://github.com/iqlusioninc/crates/,https://docs.rs/brotli/,https://github.com/iqlusioninc/crates/tree/main/secrecy
+931,jsonrpc-core-client,v18.0.0,https://github.com/paritytech/jsonrpc,https://docs.rs/jsonrpc-core-client/,https://github.com/paritytech/jsonrpc
+932,secp256k1-sys,v0.4.2,https://github.com/rust-bitcoin/rust-secp256k1/,https://docs.rs/secp256k1-sys/,https://github.com/rust-bitcoin/rust-secp256k1/
+933,arbitrary,v1.0.3,https://github.com/rust-bitcoin/rust-secp256k1/,https://docs.rs/arbitrary/,https://github.com/rust-fuzz/arbitrary/
+934,clear_on_drop,v0.2.4,https://github.com/rust-bitcoin/rust-secp256k1/,https://docs.rs/clear_on_drop,https://github.com/cesarb/clear_on_drop
+935,xcb,v0.10.1,https://github.com/rust-bitcoin/rust-secp256k1/,https://rust-x-bindings.github.io/rust-xcb/branches/v1.0-dev/xcb/,https://github.com/rust-x-bindings/rust-xcb/tree/v1.0-dev
+936,procfs,v0.12.0,https://github.com/rust-bitcoin/rust-secp256k1/,https://docs.rs/procfs/,https://github.com/eminence/procfs
+937,byte-unit,v4.0.13,https://magiclen.org/byte-unit,https://docs.rs/procfs/,https://github.com/magiclen/byte-unit
+938,block-cipher,v0.99.99,https://magiclen.org/byte-unit,https://docs.rs/procfs/,https://github.com/RustCrypto/traits/tree/master/cipher
+939,rustc-rayon-core,v0.3.1,https://magiclen.org/byte-unit,https://docs.rs/rustc-rayon-core/,https://github.com/rust-lang/rustc-rayon
+940,tower-load,v0.3.0,https://github.com/tower-rs/tower,https://docs.rs/tower-load/0.3.0-alpha.2,https://github.com/tower-rs/tower
+941,lz4-sys,v1.9.2,https://github.com/tower-rs/tower,https://docs.rs/tower-load/0.3.0-alpha.2,https://github.com/bozaro/lz4-rs
+942,rustc-rayon,v0.3.1,https://github.com/tower-rs/tower,https://docs.rs/rustc-rayon/,https://github.com/rust-lang/rustc-rayon
+943,qstring,v0.7.2,https://github.com/tower-rs/tower,https://docs.rs/qstring,https://github.com/algesten/qstring
+944,cranelift-codegen-meta,v0.80.0,https://github.com/tower-rs/tower,https://docs.rs/qstring,https://github.com/bytecodealliance/wasmtime
+945,cranelift-codegen,v0.80.0,https://github.com/tower-rs/tower,https://docs.rs/cranelift-codegen,https://github.com/bytecodealliance/wasmtime
+946,schemars,v0.8.8,https://graham.cool/schemars/,https://docs.rs/cranelift-codegen,https://github.com/GREsau/schemars
+947,der-parser,v6.0.0,https://github.com/rusticata/der-parser,https://docs.rs/cranelift-codegen,https://github.com/rusticata/der-parser.git
+948,schemars_derive,v0.8.8,https://graham.cool/schemars/,https://docs.rs/cranelift-codegen,https://github.com/GREsau/schemars
+949,alga,v0.9.3,https://graham.cool/schemars/,https://docs.rs/alga,https://github.com/rustsim/alga
+950,sentry-contexts,v0.23.0,https://sentry.io/welcome/,https://docs.rs/alga,https://github.com/getsentry/sentry-rust
+951,cranelift-bforest,v0.80.0, ,https://docs.rs/cranelift-bforest,https://github.com/bytecodealliance/wasmtime
+952,stacker,v0.1.14,https://github.com/rust-lang/stacker,https://docs.rs/stacker/0.1.14,https://github.com/rust-lang/stacker
+953,shared_library,v0.1.9,https://github.com/rust-lang/stacker,https://docs.rs/stacker/0.1.14,https://github.com/tomaka/shared_library/
+954,pear,v0.2.3,https://github.com/rust-lang/stacker,https://docs.rs/stacker/0.1.14,https://github.com/tomaka/shared_library/
+955,infer,v0.6.0,https://github.com/bojand/infer,https://docs.rs/infer,https://github.com/bojand/infer
+956,enumset,v1.0.8,https://github.com/bojand/infer,https://docs.rs/enumset/,https://github.com/Lymia/enumset
+957,ascii-canvas,v3.0.0,https://github.com/bojand/infer,https://docs.rs/enumset/,https://github.com/nikomatsakis/ascii-canvas
+958,pear_codegen,v0.2.3,https://github.com/bojand/infer,https://docs.rs/enumset/,https://github.com/nikomatsakis/ascii-canvas
+959,sentry-panic,v0.23.0,https://sentry.io/welcome/,https://docs.rs/enumset/,https://github.com/getsentry/sentry-rust
+960,flatbuffers,v2.0.0,https://google.github.io/flatbuffers/,https://docs.rs/enumset/,https://github.com/google/flatbuffers
+961,regalloc,v0.0.33,https://google.github.io/flatbuffers/,https://docs.rs/enumset/,https://github.com/bytecodealliance/regalloc.rs
+962,fsevent,v2.1.2,https://google.github.io/flatbuffers/,https://docs.rs/enumset/,https://github.com/octplane/fsevent-rust
+963,metadeps,v1.1.2,https://google.github.io/flatbuffers/,http://docs.rs/metadeps,https://github.com/joshtriplett/metadeps
+964,radix_trie,v0.2.1,https://google.github.io/flatbuffers/,https://docs.rs/radix_trie/,https://github.com/michaelsproul/rust_radix_trie
+965,fast-math,v0.1.1,https://github.com/huonw/fast-math,https://docs.rs/fast-math,https://github.com/huonw/fast-math
+966,tiny_http,v0.9.0,https://github.com/huonw/fast-math,https://tiny-http.github.io/tiny-http/tiny_http/index.html,https://github.com/tiny-http/tiny-http
+967,odds,v0.4.0,https://github.com/huonw/fast-math,https://docs.rs/odds/,https://github.com/bluss/odds
+968,nibble_vec,v0.1.0,https://github.com/huonw/fast-math,https://docs.rs/rust_nibble_vec,https://github.com/michaelsproul/rust_nibble_vec
+969,endian-type,v0.1.2,https://github.com/Lolirofle/endian-type,https://docs.rs/rust_nibble_vec,https://github.com/Lolirofle/endian-type.git
+970,assert-json-diff,v2.0.1,https://github.com/davidpdrsn/assert-json-diff,https://docs.rs/assert-json-diff,https://github.com/davidpdrsn/assert-json-diff.git
+971,cranelift-codegen-shared,v0.80.0,https://github.com/davidpdrsn/assert-json-diff,https://docs.rs/assert-json-diff,https://github.com/bytecodealliance/wasmtime
+972,lalrpop,v0.19.6,https://github.com/davidpdrsn/assert-json-diff,https://docs.rs/assert-json-diff,https://github.com/lalrpop/lalrpop
+973,postgres-types,v0.2.2,https://github.com/davidpdrsn/assert-json-diff,https://docs.rs/assert-json-diff,https://github.com/sfackler/rust-postgres
+974,rio,v0.9.4,https://github.com/spacejam/rio,https://docs.rs/rio/,https://github.com/spacejam/rio
+975,shellexpand,v2.1.0,https://github.com/spacejam/rio,http://docs.rs/shellexpand/,https://github.com/netvl/shellexpand
+976,cranelift-frontend,v0.80.0,https://github.com/spacejam/rio,https://docs.rs/cranelift-frontend,https://github.com/bytecodealliance/wasmtime
+977,fancy-regex,v0.7.1,https://github.com/spacejam/rio,https://docs.rs/fancy-regex,https://github.com/fancy-regex/fancy-regex
+978,custom_derive,v0.1.7,https://github.com/spacejam/rio,https://docs.rs/crate/custom_derive/,https://github.com/DanielKeep/rust-custom-derive/tree/custom_derive-master
+979,rustc-ap-rustc_target,v727.0.0,https://github.com/spacejam/rio,https://docs.rs/crate/custom_derive/,https://github.com/rust-lang/rust
+980,stb_truetype,v0.3.1,https://github.com/spacejam/rio,https://docs.rs/stb_truetype-rs,https://gitlab.redox-os.org/redox-os/stb_truetype-rs
+981,version-sync,v0.9.4,https://github.com/spacejam/rio,https://docs.rs/version-sync/,https://github.com/mgeisler/version-sync
+982,ethbloom,v0.11.1,https://github.com/paritytech/parity-common,https://docs.rs/ethbloom,https://github.com/paritytech/parity-common
+983,hyper-timeout,v0.4.1,https://github.com/hjr3/hyper-timeout,https://github.com/hjr3/hyper-timeout,https://github.com/hjr3/hyper-timeout
+984,bech32,v0.8.1,https://github.com/hjr3/hyper-timeout,https://github.com/hjr3/hyper-timeout,https://github.com/rust-bitcoin/rust-bech32
+985,ethereum-types,v0.12.1,https://github.com/paritytech/parity-common,https://github.com/hjr3/hyper-timeout,https://github.com/rust-bitcoin/rust-bech32
+986,const-oid,v0.7.1,https://github.com/paritytech/parity-common,https://docs.rs/const-oid,https://github.com/RustCrypto/formats/tree/master/const-oid
+987,andrew,v0.3.1,https://github.com/paritytech/parity-common,https://docs.rs/const-oid,https://github.com/Smithay/andrew
+988,enumset_derive,v0.5.5,https://github.com/paritytech/parity-common,https://lymia.moe/doc/enumset/enumset/,https://github.com/Lymia/enumset
+989,version-compare,v0.1.0,https://github.com/paritytech/parity-common,https://docs.rs/version-compare,https://github.com/timvisee/version-compare
+990,hash32,v0.2.1,https://github.com/paritytech/parity-common,https://docs.rs/version-compare,https://github.com/japaric/hash32
+991,skeptic,v0.13.6,https://github.com/budziq/rust-skeptic,https://docs.rs/skeptic,https://github.com/budziq/rust-skeptic
+992,lz4,v1.23.2,https://github.com/budziq/rust-skeptic,https://docs.rs/lz4,https://github.com/10xGenomics/lz4-rs
+993,loom,v0.5.4,https://github.com/tokio-rs/loom,https://docs.rs/lz4,https://github.com/tokio-rs/loom
+994,protoc-rust,v2.25.2,https://github.com/stepancheg/rust-protobuf/tree/master/protoc-rust/,https://docs.rs/lz4,https://github.com/stepancheg/rust-protobuf/tree/master/protoc-rust/
+995,rental,v0.5.6,https://github.com/stepancheg/rust-protobuf/tree/master/protoc-rust/,https://docs.rs/rental,https://github.com/jpernst/rental
+996,asynchronous-codec,v0.6.0,https://github.com/mxinden/asynchronous-codec,https://docs.rs/crate/asynchronous-codec,https://github.com/mxinden/asynchronous-codec
+997,owned_ttf_parser,v0.14.0,https://github.com/mxinden/asynchronous-codec,https://docs.rs/crate/asynchronous-codec,https://github.com/alexheretic/owned-ttf-parser
+998,soketto,v0.7.1,https://github.com/mxinden/asynchronous-codec,https://docs.rs/crate/asynchronous-codec,https://github.com/paritytech/soketto
+999,heapless,v0.7.9,https://github.com/mxinden/asynchronous-codec,https://docs.rs/heapless,https://github.com/japaric/heapless
+1000,cty,v0.2.2,https://github.com/mxinden/asynchronous-codec,https://docs.rs/cty,https://github.com/japaric/cty
